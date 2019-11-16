@@ -45,10 +45,10 @@
     <link rel="icon" type="image/png" href="{{ "./images/bukoski_tn2.png" | absURL }}" sizes="32x32">
     <link rel="icon" type="image/png" href="{{ "./images/bukoski_tn2.png" | absURL }}" sizes="16x16">
 
-    <!--{{ with .Site.Home.AlternativeOutputFormats.Get "RSS" }}
+    {{ with .Site.Home.AlternativeOutputFormats.Get "RSS" }}
       <link rel="alternate" href="{{ .Permalink }}" type="application/rss+xml" title="{{ $.Site.Title | plainify }}">
       <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title | plainify }}" />
-    {{ end }}-->
+    {{ end }}
 
     {{ hugo.Generator }}
   </head>
