@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "B60FC6CE",
-    "lastKnownWriteTime" : 1573920962,
-    "last_content_update" : 1573920962667,
-    "path" : "~/blogdown_example/themes/hugo-coder-portfolio/layouts/_default/baseof.html",
+    "lastKnownWriteTime" : 1573923729,
+    "last_content_update" : 1573923729091,
+    "path" : "~/website/themes/hugo-coder-portfolio/layouts/_default/baseof.html",
     "project_path" : "themes/hugo-coder-portfolio/layouts/_default/baseof.html",
     "properties" : {
-        "cursorPosition" : "9,85",
-        "scrollLine" : "0"
+        "cursorPosition" : "48,117",
+        "scrollLine" : "41"
     },
     "relative_order" : 11,
     "source_on_save" : false,

@@ -1,7 +1,9 @@
-baseurl = "https://jacobjbukoski.com"
+baseurl = "/"
 title = "Jacob J. Bukoski"
 
 theme = "hugo-coder-portfolio"
+
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 DefaultContentLanguage = "en"
 
@@ -20,6 +22,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = "Jacob Bukoski,Jacob J. Bukoski"
     info = "Environmental Scientist"
     headshoturl = "images/headshot.jpg"
+    title = "Jacob J. Bukoski"
 
     hideCredits = false
     hideCopyright = false
