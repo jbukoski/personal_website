@@ -1,5 +1,5 @@
 {
-    "path" : "~/blogdown_example/content/authors/admin",
+    "path" : "~/website/themes/hugo-coder-portfolio/layouts/_default",
     "sortOrder" : [
         {
             "ascending" : true,
