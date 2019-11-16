@@ -1,0 +1,26 @@
+theme = "hugo-primer"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jacob J. Bukoski"
+copyright = "&copy;Jacob J. Bukoski, 2019"
+
+hasCJKLanguage = true
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+description = "Personal website for Jacob J. Bukoski"
+
+[menu]
+  
+  [[menu.main]]
+      name = "About"
+      url = "/about/"
+      
+  [[menu.main]]
+      name = "Research"
+      url = "/research/"
+      
+  [[menu.main]]
+      name = "Publications"
+      url = "/publications/"

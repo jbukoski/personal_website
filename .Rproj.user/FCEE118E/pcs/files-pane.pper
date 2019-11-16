@@ -1,0 +1,9 @@
+{
+    "path" : "~/blogdown_example/content/authors/admin",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Jacob J. Bukoski</title>
+    <link>/research/</link>
+    <description>Recent content in Researches on Jacob J. Bukoski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/research/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research/</guid>
+      <description>I am broadly interested in the ecology, management and restoration of forests, with a geographic focus on the tropics and western North America. My research occurs through the combination of different data types and approaches - field inventories, statistical modeling, spatial analyses, and critical document review. Given the interdisciplinary nature of forest management, I apply these to both social and ecological systems.
+For my dissertation research, I am exploring these topics through the conservation of mangrove forests.</description>
+    </item>
+    
+  </channel>
+</rss>
