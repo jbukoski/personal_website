@@ -25,7 +25,7 @@ Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. “The future 
 
 #### Technical Documents
 
-**Bukoski, J.J.**, and Holland, T. 2019. Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report. Report submitted to: The World Bank & the Royal Forestry Department of the Republic of Vanuatu. *Climate Law & Policy*.
+**Bukoski, J.J.**, and Holland, T. 2019. Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report. Report submitted to: The World Bank & the Department of Forestry of the Republic of Vanuatu. *Climate Law & Policy*.
 
 Broadhead, J.S., **Bukoski, J.J.** and Nikolai Beresnev. 2016. Mangrove carbon stock estimator and monitoring guide. United Nations Food and Agricultural Organization, Regional Office for the Asia Pacific (UN FAO-RAP), United States Agency for International Development, Lowering Emissions in Asia's Forests (USAID LEAF) & International Union for the Conservation of Nature (IUCN).
 
