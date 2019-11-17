@@ -18,14 +18,12 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Jacob J. Bukoski"
-    description = "Jacob J. Bukoski is a environmental scientist working with the ecology, management and restoration of forests, globally."
+    description = "I am an environmental scientist researching the ecology, management and restoration of forests, globally."
     keywords = "Jacob Bukoski,Jacob J. Bukoski"
-    info = "Environmental Scientist"
-    headshoturl = "images/headshot.jpg"
     title = "Jacob J. Bukoski"
 
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Bottom sns share
     snsShare = true
@@ -59,7 +57,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.params]
             author = "Jacob J. Bukoski"
             info = "Environmental Scientist"
-            description = "Jacob J. Bukoski is a environmental scientist working with the ecology, management and restoration of forests, globally."
+            description = "I am an environmental scientist researching the ecology, management and restoration of forests, globally."
             keywords = "Jacob J. Bukoski, Jacob Bukoski"
 
         [languages.en.menu] # It is possible to change the menu too.
