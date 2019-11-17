@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Jacob J. Bukoski"
-    description = "Jacob J. Bukoski's personal website"
+    description = "Jacob J. Bukoski is a environmental scientist working with the ecology, management and restoration of forests, globally."
     keywords = "Jacob Bukoski,Jacob J. Bukoski"
     info = "Environmental Scientist"
     headshoturl = "images/headshot.jpg"
@@ -59,7 +59,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.params]
             author = "Jacob J. Bukoski"
             info = "Environmental Scientist"
-            description = "Jacob J. Bukoski's personal website"
+            description = "Jacob J. Bukoski is a environmental scientist working with the ecology, management and restoration of forests, globally."
             keywords = "Jacob J. Bukoski, Jacob Bukoski"
 
         [languages.en.menu] # It is possible to change the menu too.
