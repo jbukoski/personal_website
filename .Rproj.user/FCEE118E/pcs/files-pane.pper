@@ -1,8 +1,8 @@
 {
-    "path" : "~/website/themes/hugo-coder-portfolio/layouts/_default",
+    "path" : "~/personal_website",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
