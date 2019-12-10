@@ -5,7 +5,9 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
-Elwin, A., **Bukoski, J.J.**, Robinson, E., Jintana, V., and Clark, J. 2019. "Preservation and recovery of mangrove ecosystem carbon stocks in abandoned shrimp ponds." *Scientific Reports*. **[Accepted - in press]**.
+**Bukoski, J.J.**, Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. The role of predictive model data in designing mangrove carbon offset programs. *In review at Environmental Research Letters*.
+  
+Elwin, A., **Bukoski, J.J.**, Robinson, E., Jintana, V., and Clark, J. 2019. "Preservation and recovery of mangrove ecosystem carbon stocks in abandoned shrimp ponds." *Scientific Reports* 9: 18275. [doi:10.1038/s41598-019-54893-6](https://www.nature.com/articles/s41598-019-54893-6).
 
 Sanderman, J., T. Hengl, G. Fiske, K. Solvik, M.F. Adame, L. Benson, **Bukoski, J.J.**, et al. 2018. “A global map of mangrove forest soil carbon at 30 m spatial resolution.” *Environmental Research Letters* 13 (5): 055002. [doi:10.1088&#47;1748-9326/aabe1c](https://iopscience.iop.org/article/10.1088/1748-9326/aabe1c/pdf).
 
