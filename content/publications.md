@@ -11,11 +11,7 @@ Elwin, A., **Bukoski, J.J.**, Robinson, E., Jintana, V., and Clark, J. 2019. Pre
 
 Sanderman, J., T. Hengl, G. Fiske, K. Solvik, M.F. Adame, L. Benson, **Bukoski, J.J.**, et al. 2018. A global map of mangrove forest soil carbon at 30 m spatial resolution. *Environmental Research Letters* 13 (5): 055002. [doi:10.1088&#47;1748-9326/aabe1c](https://iopscience.iop.org/article/10.1088/1748-9326/aabe1c/pdf).
 
-  - Covered in [PhysicsWorld](https://physicsworld.com/a/global-mangrove-soil-carbon-map-aids-conservation/) & [Mongabay](https://news.mongabay.com/2018/05/new-study-finds-mangroves-may-store-way-more-carbon-than-we-thought/)
-
 Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. The future of tropical forests under the united nations sustainable development goals. *Journal of Sustainable Forestry* 37 (2): 1–36. [doi:10.1080&#47;10549811.2017.1416477](https://www.tandfonline.com/doi/abs/10.1080/10549811.2017.1416477).
-
-  - Top 10 most read articles in *Journal of Sustainable Forestry*
 
 **Bukoski, J.J.**, Drazen, E., Johnson, W.R., and Swamy, L. 2018. Tropical forests for sustainable development: Shaping the 2030 agenda for sustainable development with knowledge from the field. *Journal of Sustainable Forestry* 37 (2): 77–81. [doi:10.1080&#47;10549811.2018.1418255](https://www.tandfonline.com/doi/full/10.1080/10549811.2018.1418255).
 
