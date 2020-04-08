@@ -80,7 +80,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
                 name = "Teaching"
                 weight = 4.0
-                url = "teaching"
+               url = "teaching"
 
 #            [[languages.en.menu.main]]
 #                name = "Blog"
