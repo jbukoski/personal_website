@@ -10,8 +10,7 @@ slug: about
 </div>
 
 
-I am an environmental scientist focused on the ecology, management and restoration of forests, globally. Currently, I am pursuing my Ph.D. at the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/people/jacob-bukoski) at the University of California, Berkeley. I am also a [Data Science for the 21st Century](http://ds421.berkeley.edu/) fellow at U.C. Berkeley, in which I integrate data science practices into environmental projects. I have been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. I completed my MS at the School of Forestry and Environmental Studies at Yale University and my undergraduate studies at the University of North Carolina at Chapel Hill. My doctoral studies are currently supported by a National Science Foundation Graduate Research Fellowship.
-
+I am an environmental scientist focused on the ecology, management and restoration of forests, globally. Currently, I am pursuing my Ph.D. at the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/people/jacob-bukoski) at the University of California, Berkeley. I am also a [Data Science for the 21st Century](http://ds421.berkeley.edu/) fellow at U.C. Berkeley, in which I integrate data science practices into environmental projects. I have been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. I completed my MS at the School of Forestry and Environmental Studies at Yale University and my undergraduate studies at the University of North Carolina at Chapel Hill. Currently, I am also an Associate Editor at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
 
 ---
 
