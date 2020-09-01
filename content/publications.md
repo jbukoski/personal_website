@@ -7,7 +7,7 @@ slug: publications
 
 **Bukoski, J.J.**, Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. 2020. The role of predictive model data in designing mangrove carbon offset programs. *Environmental Research Letters* [doi:10.1088&#47;1748-9326/ab7e4e](https://iopscience.iop.org/article/10.1088/1748-9326/ab7e4e).
 
-  - U.C. Berkeley [Press Release](https://nature.berkeley.edu/news/2020/04/research-predictive-modeling-informs-mangrove-conservation)
+  - U.C. Berkeley [Press Release](https://nature.berkeley.edu/news/2020/04/research-predictive-modeling-informs-mangrove-conservation) [doi:10.1088&#47;1748-9326/ab7e4e](https://iopscience.iop.org/article/10.1088/1748-9326/ab7e4e)
   
 Elwin, A., **Bukoski, J.J.**, Robinson, E., Jintana, V., and Clark, J. 2019. Preservation and recovery of mangrove ecosystem carbon stocks in abandoned shrimp ponds. *Scientific Reports* 9: 18275. [doi:10.1038/s41598-019-54893-6](https://www.nature.com/articles/s41598-019-54893-6).
 
