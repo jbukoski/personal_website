@@ -13,13 +13,13 @@ slug: publications
 
 **[10]** Rovai, A.S., Twilley, R.R., Castaneda-Moya, E., Midway, S.R., Friess, D.A., Trettin, C.C., **Bukoski, J.J.**, et al. 2021. Macroecological patterns of forest structure and allometric scaling in mangrove forests. *Global Ecology and Biogeography* 30(5): 1000-1013. [doi:10.1111/geb.13268](https://doi.org/10.1111/geb.13268).
 
-**[9]** **Bukoski, J.J.**, Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. 2020. The role of predictive model data in designing mangrove carbon offset programs. *Environmental Research Letters* 15: 084019. [doi:10.1088&#47;1748-9326/ab7e4e](https://iopscience.iop.org/article/10.1088/1748-9326/ab7e4e). [U.C. Berkeley Press Release](https://nature.berkeley.edu/news/2020/04/research-predictive-modeling-informs-mangrove-conservation).
+**[9]** **Bukoski, J.J.**, Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. 2020. The role of predictive model data in designing mangrove carbon offset programs. *Environmental Research Letters* 15: 084019. [doi:10.1088&#47;1748-9326/ab7e4e](https://iopscience.iop.org/article/10.1088/1748-9326/ab7e4e). | [U.C. Berkeley Press Release](https://nature.berkeley.edu/news/2020/04/research-predictive-modeling-informs-mangrove-conservation).
   
 **[8]** Elwin, A., **Bukoski, J.J.**, Robinson, E., Jintana, V., and Clark, J. 2019. Preservation and recovery of mangrove ecosystem carbon stocks in abandoned shrimp ponds. *Scientific Reports* 9: 18275. [doi:10.1038/s41598-019-54893-6](https://www.nature.com/articles/s41598-019-54893-6).
 
-**[7]** Sanderman, J., T. Hengl, G. Fiske, K. Solvik, M.F. Adame, L. Benson, **Bukoski, J.J.**, et al. 2018. A global map of mangrove forest soil carbon at 30 m spatial resolution. *Environmental Research Letters* 13 (5): 055002. [doi:10.1088&#47;1748-9326/aabe1c](https://iopscience.iop.org/article/10.1088/1748-9326/aabe1c/pdf). [Mongabay](https://news.mongabay.com/2018/05/new-study-finds-mangroves-may-store-way-more-carbon-than-we-thought/?alm_mvr=0).
+**[7]** Sanderman, J., T. Hengl, G. Fiske, K. Solvik, M.F. Adame, L. Benson, **Bukoski, J.J.**, et al. 2018. A global map of mangrove forest soil carbon at 30 m spatial resolution. *Environmental Research Letters* 13 (5): 055002. [doi:10.1088&#47;1748-9326/aabe1c](https://iopscience.iop.org/article/10.1088/1748-9326/aabe1c/pdf). | [Mongabay](https://news.mongabay.com/2018/05/new-study-finds-mangroves-may-store-way-more-carbon-than-we-thought/?alm_mvr=0).
 
-**[6]** Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. The future of tropical forests under the united nations sustainable development goals. *Journal of Sustainable Forestry* 37 (2): 1–36. [doi:10.1080&#47;10549811.2017.1416477](https://www.tandfonline.com/doi/abs/10.1080/10549811.2017.1416477). [Yale Press Release](https://environment.yale.edu/news/article/tropical-forests-are-key-to-achieving-sustainable-development-by-2030/)
+**[6]** Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. The future of tropical forests under the united nations sustainable development goals. *Journal of Sustainable Forestry* 37 (2): 1–36. [doi:10.1080&#47;10549811.2017.1416477](https://www.tandfonline.com/doi/abs/10.1080/10549811.2017.1416477). | [Yale Press Release](https://environment.yale.edu/news/article/tropical-forests-are-key-to-achieving-sustainable-development-by-2030/)
 
 **[5]** **Bukoski, J.J.**, Drazen, E., Johnson, W.R., and Swamy, L. 2018. Tropical forests for sustainable development: Shaping the 2030 agenda for sustainable development with knowledge from the field. *Journal of Sustainable Forestry* 37 (2): 77–81. [doi:10.1080&#47;10549811.2018.1418255](https://www.tandfonline.com/doi/full/10.1080/10549811.2018.1418255).
 
@@ -30,6 +30,10 @@ slug: publications
 **[2]** **Bukoski, J.J.**, Chaiwiwatworakul, P., and Gheewala, S.H. 2016. Energy savings versus costs of implementation for demand side management strategies within an energy-efficient tropical residence. *Energy Efficiency* 9 (2): 473–85. [doi:10.1007/s12053-015-9374-y](https://link.springer.com/article/10.1007/s12053-015-9374-y).
 
 **[1]** **Bukoski, J.**, Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. *Energy and Buildings* 72: 150–56. [doi:10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
+
+#### In Review & Under Revision
+
+**Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, S., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantations.
 
 ------
 
