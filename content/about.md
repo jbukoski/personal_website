@@ -10,7 +10,7 @@ slug: about
 </div>
 
 
-Jacob (he/him) is a Postdoctoral Associate at Conservation International's Moore Center for Science. He earned his Ph.D. at the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/people/jacob-bukoski) at the University of California, Berkeley, and a M.Sc. in Forest Science at Yale University's School of Forestry. Jacob's research broadly focuses on the conservation, management, and restoration of forests globally. Through his work, he has been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. He is also an Associate Editor at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
+Jacob (he/him) is a Postdoctoral Associate at Conservation International's Moore Center for Science. He completed his Ph.D. at the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/people/jacob-bukoski) at the University of California, Berkeley, and a M.Sc. in Forest Science at Yale University's School of Forestry. Jacob's research broadly focuses on the conservation, management, and restoration of forests globally. Through his work, he has been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. He is also an Associate Editor at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
 
 ---
 

@@ -23,9 +23,7 @@ slug: publications
 
   - Covered in [Mongabay](https://news.mongabay.com/2018/05/new-study-finds-mangroves-may-store-way-more-carbon-than-we-thought/?alm_mvr=0) & [PhysicsWorld](https://physicsworld.com/a/global-mangrove-soil-carbon-map-aids-conservation/)
 
-**[6]** Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. The future of tropical forests under the united nations sustainable development goals. *Journal of Sustainable Forestry* 37 (2): 1–36. [doi:10.1080&#47;10549811.2017.1416477](https://www.tandfonline.com/doi/abs/10.1080/10549811.2017.1416477).
-
-  - Yale University [Press Release](https://environment.yale.edu/news/article/tropical-forests-are-key-to-achieving-sustainable-development-by-2030/)
+**[6]** Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. The future of tropical forests under the united nations sustainable development goals. *Journal of Sustainable Forestry* 37 (2): 1–36. [doi:10.1080&#47;10549811.2017.1416477](https://www.tandfonline.com/doi/abs/10.1080/10549811.2017.1416477). [[Yale Press Release]](https://environment.yale.edu/news/article/tropical-forests-are-key-to-achieving-sustainable-development-by-2030/)
 
 **[5]** **Bukoski, J.J.**, Drazen, E., Johnson, W.R., and Swamy, L. 2018. Tropical forests for sustainable development: Shaping the 2030 agenda for sustainable development with knowledge from the field. *Journal of Sustainable Forestry* 37 (2): 77–81. [doi:10.1080&#47;10549811.2018.1418255](https://www.tandfonline.com/doi/full/10.1080/10549811.2018.1418255).
 
@@ -47,19 +45,4 @@ Broadhead, J.S., **Bukoski, J.J.** and Nikolai Beresnev. 2016. Mangrove carbon s
 
 Saah, D., Manley, P., Chen, Q., O’Neil-Dunne, J., White, A., Moody, T., Freed, T., **Bukoski, J.**, Moghaddas, J. 2016. Monitoring desired conditions for vegetation and wildlife habitat: An independent test of proposed indicators for monitoring vegetation in the Lake Tahoe Basin. Report submitted to: US Forest Service Pacific Southwest Research Station – SNPLMA Round 10 Science Project. 73 pp.
 
-
 ------
-
-#### Popular Writing
-
-**Bukoski, J.** 2015. ["Land-use history influences rates of tropical forest regeneration."](https://environment-review.yale.edu/land-use-history-influences-rates-tropical-forest-regeneration-0) *Yale Environment Review*
-
-**Bukoski, J.** 2015. ["Nutrient dynamics of forest growth affect climate change model outcomes."](https://environment-review.yale.edu/nutrient-dynamics-forest-growth-affect-climate-change-model-outcomes-0) *Yale Environment Review*
-
-**Bukoski, J.** 2015. ["Produce or preserve? Examining the biofuel vs. reforestation debate."](https://environment-review.yale.edu/produce-or-preserve-examining-biofuel-vs-reforestation-debate-0) *Yale Environment Review*
-
-**Bukoski, J.** 2015. ["Post-Fukushima: The impacts on Japanese public opinion of public power."](https://environment-review.yale.edu/post-fukushima-impacts-japanese-public-opinion-nuclear-power-0) *Yale Environment Review*
-
-**Bukoski, J.** 2015. ["Strength in numbers: A guide to urban resilience."](https://environment-review.yale.edu/strength-numbers-guide-urban-resilience-0) *Yale Environment Review*
-
-**Bukoski, J.** 2015. ["Can New York City be a global leader in energy efficient building design?"](https://environment-review.yale.edu/can-new-york-city-be-global-leader-energy-efficient-building-design-0) *Yale Environment Review*
