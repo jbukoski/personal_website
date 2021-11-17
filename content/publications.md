@@ -33,7 +33,9 @@ slug: publications
 
 #### In Review & Under Revision
 
-**Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, S., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantations.
+**Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, S., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantations. [*In revision*]
+
+</br>
 
 ------
 
