@@ -5,7 +5,13 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
-**Bukoski, J.J.**, Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. 2020. The role of predictive model data in designing mangrove carbon offset programs. *Environmental Research Letters* [doi:10.1088&#47;1748-9326/ab7e4e](https://iopscience.iop.org/article/10.1088/1748-9326/ab7e4e).
+
+
+Golebie, E.J., Aczel, M., **Bukoski, J.J.**, Chau, S., Ramirez-Bullon, N., Gong, M., and Teller, N. 2021. A qualitative systematic review of governance principles for mangrove conservation. *Conservation Biology* [doi:10.1111/cobi.13850](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13850).
+
+Rovai, A.S., Twilley, R.R., Castaneda-Moya, E., Midway, S.R., Friess, D.A., Trettin, C.C., **Bukoski, J.J.**, Stovall, A.E.L., Pagliosa, P.R., Fonseca, A.L., Mackenzie, R.A., Aslan, A., Sasmito, S.D., Sillanpaa, M., Cole, T.G., Purbopuspito, J., Warren, M.W., Murdiyarso, D., Mofu, W., Sharma, S., Tinh, P.H., and Riul, P. 2021. Macroecological patterns of forest structure and allometric scaling in mangrove forests. *Global Ecology and Biogeography* 30(5): 1000-1013. [doi:10.1111/geb.13268](https://doi.org/10.1111/geb.13268).
+
+**Bukoski, J.J.**, Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. 2020. The role of predictive model data in designing mangrove carbon offset programs. *Environmental Research Letters* 15: 084019. [doi:10.1088&#47;1748-9326/ab7e4e](https://iopscience.iop.org/article/10.1088/1748-9326/ab7e4e).
 
   - U.C. Berkeley [Press Release](https://nature.berkeley.edu/news/2020/04/research-predictive-modeling-informs-mangrove-conservation)
   
