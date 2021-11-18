@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Jacob J. Bukoski"
     description = "I am an environmental scientist researching the ecology, management and restoration of forests, globally."
-    keywords = "Jacob Bukoski,Jacob J. Bukoski"
+    keywords = "Jacob Bukoski, Jacob J. Bukoski"
     title = "Jacob J. Bukoski"
 
     hideCredits = true
