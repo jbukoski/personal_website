@@ -31,7 +31,7 @@ slug: publications
 
 **[1]** **Bukoski, J.**, Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. *Energy and Buildings* 72: 150–56. [doi:10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
 
-#### In Review & Under Revision
+#### In Review & In Revision
 
 **Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, S., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantations. [*In revision*]
 
