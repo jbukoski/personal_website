@@ -4,7 +4,7 @@ slug: publications
 ---
 
 #### Peer-Reviewed Articles
-
+  
 **[13]** **Bukoski, J.J.**, Dronova, I., and Potts, M.D. 2021. Net loss statistics underestimate carbon emissions from mangrove land use and land cover change. *Ecography* [doi:10.1111/ecog.05982](http://onlinelibrary.wiley.com/doi/10.1111/ecog.05982). 
 
 **[12]** Prieto, P.V., **Bukoski, J.J.**, Barros, F.S.M., Beyer, H.L., Iribarrem, A., Brancalion, P.H.S., Chazdon, R.L., Lindenmayer, D.B., Strassburg, B.B.N., Guariguata, M.R., Crouzeilles, R. 2021. Predicting landscape-scale biodiversity recovery by natural tropical forest regrowth. *Conservation Biology* [doi:10.1111/cobi.13842](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13842).
