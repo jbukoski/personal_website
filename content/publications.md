@@ -4,8 +4,10 @@ slug: publications
 ---
 
 #### Peer-Reviewed Articles
+
+**[14]** **Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, H., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantation forests. [*Accepted at Nature Communications*]
   
-**[13]** **Bukoski, J.J.**, Dronova, I., and Potts, M.D. 2021. Net loss statistics underestimate carbon emissions from mangrove land use and land cover change. *Ecography* [doi:10.1111/ecog.05982](http://onlinelibrary.wiley.com/doi/10.1111/ecog.05982). 
+**[13]** **Bukoski, J.J.**, Dronova, I., and Potts, M.D. 2021. Net loss statistics underestimate carbon emissions from mangrove land use and land cover change. *Ecography* [doi:10.1111/ecog.05982](http://onlinelibrary.wiley.com/doi/10.1111/ecog.05982). | [U.C. Berkeley Press Release](https://ourenvironment.berkeley.edu/news/2021/11/policies-mitigating-wetland-loss-hide-large-climate-impacts).
 
 **[12]** Prieto, P.V., **Bukoski, J.J.**, Barros, F.S.M., Beyer, H.L., Iribarrem, A., Brancalion, P.H.S., Chazdon, R.L., Lindenmayer, D.B., Strassburg, B.B.N., Guariguata, M.R., Crouzeilles, R. 2021. Predicting landscape-scale biodiversity recovery by natural tropical forest regrowth. *Conservation Biology* [doi:10.1111/cobi.13842](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13842).
 
@@ -33,7 +35,10 @@ slug: publications
 
 #### In Review & In Revision
 
-**Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, S., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantations. [*In revision*]
+Holl, K.D., Ashton, M.S., **Bukoski, J.J.**, Culbertson, K., Curran, S., Harris, T., Potts, M.D., Valverde, Y., and Vincent, J.R. Clearly defining "abandoned" land in the context of reforestation. *In review at Frontiers in Forests and Global Change*.
+
+Evans, S.G., Haya, B., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. Scientific review of carbon quantificationby improved forest management offset protocols. *In review at Frontiers in Forests and Global Change*.
+
 
 </br>
 
