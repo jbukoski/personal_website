@@ -5,9 +5,9 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
-**[15]** Holl, K.D., Ashton, M.S., **Bukoski, J.J.**, Culbertson, K., Curran, S., Harris, T., Potts, M.D., Valverde, Y., and Vincent, J.R. Clearly defining "abandoned" land in the context of reforestation. [*Accepted at Frontiers in Forests and Global Change*].
+**[15]** Holl, K.D., Ashton, M.S., **Bukoski, J.J.**, Culbertson, K., Curran, S., Harris, T., Potts, M.D., Valverde, Y., and Vincent, J.R. 2022. Clearly defining "abandoned" land in the context of reforestation. [*Frontiers in Forests and Global Change*] 5(933877). [doi:10.3389/ffgc.2022.933887](https://doi.org/10.3389/ffgc.2022.933887).
 
-**[14]** **Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, H., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. Rates and drivers of aboveground carbon accumulation in global monoculture plantation forests. *Nature Communications* [doi:10.1038/s41467-022-31380-7](https://www.nature.com/articles/s41467-022-31380-7). | [U.C. Berkeley Press Release](https://ourenvironment.berkeley.edu/news/2022/07/new-research-identifies-patterns-carbon-accumulation-planted-forests). | [Springer Nature Sustainability Communities](https://sustainabilitycommunity.springernature.com/posts/carbon-accumulation-is-a-key-but-incomplete-criterion-for-restoring-tree-cover?channel_id=behind-the-paper).
+**[14]** **Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, H., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. 2022. Rates and drivers of aboveground carbon accumulation in global monoculture plantation forests. *Nature Communications* [doi:10.1038/s41467-022-31380-7](https://www.nature.com/articles/s41467-022-31380-7). | [U.C. Berkeley Press Release](https://ourenvironment.berkeley.edu/news/2022/07/new-research-identifies-patterns-carbon-accumulation-planted-forests). | [Springer Nature Sustainability Communities](https://sustainabilitycommunity.springernature.com/posts/carbon-accumulation-is-a-key-but-incomplete-criterion-for-restoring-tree-cover?channel_id=behind-the-paper).
   
 **[13]** **Bukoski, J.J.**, Dronova, I., and Potts, M.D. 2021. Net loss statistics underestimate carbon emissions from mangrove land use and land cover change. *Ecography* [doi:10.1111/ecog.05982](http://onlinelibrary.wiley.com/doi/10.1111/ecog.05982). | [U.C. Berkeley Press Release](https://ourenvironment.berkeley.edu/news/2021/11/policies-mitigating-wetland-loss-hide-large-climate-impacts).
 
@@ -35,10 +35,11 @@ slug: publications
 
 **[1]** **Bukoski, J.**, Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. *Energy and Buildings* 72: 150–56. [doi:10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
 
-#### In Review & In Revision
+#### In Review & In Revision (drafts available upon request)
 
 Evans, S.G., Haya, B., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. Scientific review of carbon quantificationby improved forest management offset protocols. *In review at Frontiers in Forests and Global Change*.
 
+Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. The effects of management actions on biomass growth in forest plantations. *In prep for Current Forestry Reports*.
 
 </br>
 
@@ -46,9 +47,11 @@ Evans, S.G., Haya, B., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jac
 
 #### Technical Documents
 
+Wilson, S.J., Metzel, R., Harrigan, E., Sprenkle-Hyppolite, S., Begeladze,S., **Bukoski,J.J.**, Donatti, C., Hillman, I. 2022. Where to restore? Using spatialdata to inform restoration prioritization for climate, biodiversity, and community benefits. *Conservation International*.
+
 **Bukoski, J.J.**, and Holland, T. 2019. Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report. Report submitted to: The World Bank & the Department of Forestry of the Republic of Vanuatu. *Climate Law & Policy*.
 
-Broadhead, J.S., **Bukoski, J.J.** and Nikolai Beresnev. 2016. Mangrove carbon stock estimator and monitoring guide. United Nations Food and Agricultural Organization, Regional Office for the Asia Pacific (UN FAO-RAP), United States Agency for International Development, Lowering Emissions in Asia's Forests (USAID LEAF) & International Union for the Conservation of Nature (IUCN).
+Broadhead, J.S., **Bukoski, J.J.**, Beresnev, N. 2016. Mangrove carbon stock estimator and monitoring guide. United Nations Food and Agricultural Organization, Regional Office for the Asia Pacific (UN FAO-RAP), United States Agency for International Development, Lowering Emissions in Asia's Forests (USAID LEAF) & International Union for the Conservation of Nature (IUCN).
 
 Saah, D., Manley, P., Chen, Q., O’Neil-Dunne, J., White, A., Moody, T., Freed, T., **Bukoski, J.**, Moghaddas, J. 2016. Monitoring desired conditions for vegetation and wildlife habitat: An independent test of proposed indicators for monitoring vegetation in the Lake Tahoe Basin. Report submitted to: US Forest Service Pacific Southwest Research Station – SNPLMA Round 10 Science Project. 73 pp.
 
