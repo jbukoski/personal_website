@@ -4,7 +4,7 @@ description: "teaching"
 
 #### Philosophy
 
-My teaching is based in strengthening students' critical thinking skills and has won campus-wide teaching awards at U.C. Berkeley. I have taught a number of courses at undergraduate and graduate levels. I have also co-instructed a number of intensive week-long trainings on the use of open source software for processing of massive spatial datasets and the analysis of forest structure and carbon stock data using Program R. 
+My teaching is based in strengthening students' critical thinking skills and has won campus-wide teaching awards. I have taught a number of courses at both undergraduate and graduate levels. I have also co-instructed a number of intensive week-long trainings on the use of open source software for processing of massive spatial datasets and the analysis of forest structure and carbon stock data using Program R. 
 
 A select list of the courses and workshops I have taught is provided below.
 

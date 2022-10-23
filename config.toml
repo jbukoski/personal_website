@@ -1,5 +1,5 @@
-baseurl = "/"
-title = "Jacob J. Bukoski"
+baseurl = "/about"
+title = "Jacob J. Bukoski, Ph.D."
 
 theme = "hugo-coder-portfolio"
 
@@ -17,10 +17,10 @@ pygmentsUseClasses = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Jacob J. Bukoski"
+    author = "Jacob J. Bukoski, Ph.D."
     description = "I am an environmental scientist researching the ecology, management and restoration of forests, globally."
     keywords = "Jacob Bukoski, Jacob J. Bukoski"
-    title = "Jacob J. Bukoski"
+    title = "Jacob J. Bukoski, Ph.D."
 
     hideCredits = true
     hideCopyright = true
@@ -51,7 +51,7 @@ disqusShortname = "yourdiscussshortname"
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Jacob J. Bukoski"
+        title = "Jacob J. Bukoski, Ph.D."
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
