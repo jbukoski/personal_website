@@ -12,23 +12,19 @@ A select list of the courses and workshops I have taught is provided below.
 
 #### Courses Taught
 
-<br>
-
 **University of California, Berkeley**
 
-*Applied Forest Ecology: Silviculture*, Instructor of Record
+- *Applied Forest Ecology: Silviculture*, Instructor of Record
 
-*Forest Ecosystem Management and Planning*, Graduate Student Instructor.
+- *Forest Ecosystem Management and Planning*, Graduate Student Instructor.
 
-*Introduction to the Methods of Environmental Science*, Graduate Student Instructor.
+- *Introduction to the Methods of Environmental Science*, Graduate Student Instructor.
 
-*Resource Management*, Graduate Student Instructor.
-
-<br>
+- *Resource Management*, Graduate Student Instructor.
 
 **Yale University**
 
-*Sampling Methodology and Practice*, Teaching Fellow.
+- *Sampling Methodology and Practice*, Teaching Fellow.
 
 ------
 

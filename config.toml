@@ -81,6 +81,11 @@ disqusShortname = "yourdiscussshortname"
                 name = "Teaching"
                 weight = 4.0
                url = "teaching"
+               
+            [[languages.en.menu.main]]
+                name = "Opportunities"
+                weight = 4.0
+               url = "opportunities"
 
 #            [[languages.en.menu.main]]
 #                name = "Blog"
