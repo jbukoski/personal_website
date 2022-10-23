@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "https://jacobjbukoski.com"
 title = "Jacob J. Bukoski, Ph.D."
 
 theme = "hugo-coder-portfolio"
 
-#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 DefaultContentLanguage = "en"
 
