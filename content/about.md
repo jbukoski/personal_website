@@ -11,9 +11,9 @@ slug: about
 </div>
 
 
-Jacob (he/him) is an Assistant Professor in the Department of Forest Ecosystems & Society at Oregon State University's [College of Forestry](https://directory.forestry.oregonstate.edu/people/bukoski-jacob). His research focuses on the conservation, management, and restoration of forests, globally. Through his work, he has been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. Prior to Oregon State, Jacob was a postdoctoral researcher at Conservation International's Moore Center for Science. Jacob also holds positions as a Science Advisor at [Carbon Direct](https://www.carbon-direct.com/people/dr-jacob-bukoski) and as an Associate Editor at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
+Jacob (he/him) is an Assistant Professor in the [Department of Forest Ecosystems & Society at Oregon State University](https://directory.forestry.oregonstate.edu/people/bukoski-jacob). His research focuses on the conservation, management, and restoration of forests, globally. Through his work, he has been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. Previously, he was a postdoctoral associate at Conservation International's Moore Center for Science. Jacob earned his Ph.D. in the Department of Environmental Science, Policy, and Management at the University of California, Berkeley. In addition to his position at Oregon State, Jacob is a Science Advisor at [Carbon Direct](https://www.carbon-direct.com/people/dr-jacob-bukoski) and an Associate Editor at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
 
-Get in touch at jacob.bukoski@oregonstate.edu
+Get in touch at jacob.bukoski@oregonstate.edu.
 
 ---
 

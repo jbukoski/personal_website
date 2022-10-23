@@ -84,7 +84,7 @@ disqusShortname = "yourdiscussshortname"
                
             [[languages.en.menu.main]]
                 name = "Opportunities"
-                weight = 4.0
+                weight = 5.0
                url = "opportunities"
 
 #            [[languages.en.menu.main]]
