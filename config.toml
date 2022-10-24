@@ -7,7 +7,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 DefaultContentLanguage = "en"
 
-paginate = 20
+paginate = 20   
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
