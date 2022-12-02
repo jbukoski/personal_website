@@ -11,7 +11,7 @@ I will be recruiting graduate students in the Department of Forest Ecosystems & 
 
 I encourage enthusiastic undergraduates and prospective graduate students to reach out. However, I receive a large number of emails and although I do my best to respond to all, your email may slip through the cracks. To help me get back to you in an efficient manner, please do the following:
 
-Before you send an email, review some of my recent publications and have a good understanding of my work and interests. When you send your email, please include:
+Before you send an email, review some of my recent public ations and have a good understanding of my work and interests. When you send your email, please include:
 
 1. Your current CV as an attachment, highlighting your ability to conduct applied and/or pure research in the forest sciences
 
