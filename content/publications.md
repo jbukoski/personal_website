@@ -49,6 +49,8 @@ Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y.
 
 #### Technical Documents
 
+Wolosin, M., Hole, D., Griscom, B., Rockstrom, J., Barrera, L., Beringer, T., **Bukoski, J.J.**, Comstock, M., Goldstein, A., Hepp, J., Kasprzyk, K., Loken, B., Munshi, E., Noon, M., Roehrdanz, P., Roopsind, A., Shrestha, S., Sprenkle-Hyppolite, S., Tabor, K., Toirai, E., and Wood, M. 2022. Exponential roadmap for natural climate solutions. *Conservation International.* Arlington, VA. (PDF)[https://www.conservation.org/roadmap-pdf]
+
 Wilson, S.J., Metzel, R., Harrigan, E., Sprenkle-Hyppolite, S., Begeladze,S., **Bukoski,J.J.**, Donatti, C., Hillman, I. 2022. Where to restore? Using spatialdata to inform restoration prioritization for climate, biodiversity, and community benefits. *Conservation International*.
 
 **Bukoski, J.J.**, and Holland, T. 2019. Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report. Report submitted to: The World Bank & the Department of Forestry of the Republic of Vanuatu. *Climate Law & Policy*.
