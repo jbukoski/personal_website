@@ -1,9 +1,9 @@
 {
-    "path" : "~/personal_website/content",
-    "sortOrder" : [
+    "path": "~/personal_website/content",
+    "sortOrder": [
         {
-            "ascending" : false,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": false
         }
     ]
 }

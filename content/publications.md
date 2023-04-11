@@ -5,6 +5,9 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
+**[16]** Haya, B., Evans, S.G., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. 2023. Comprehensive review of carbon quantification by improved forest management offset protocols. *Frontiers in Forests and Global Change* 6(958879).
+[doi:10.3389/ffgc.2023.958879](https://www.frontiersin.org/articles/10.3389/ffgc.2023.958879/full)
+
 **[15]** Holl, K.D., Ashton, M.S., **Bukoski, J.J.**, Culbertson, K., Curran, S., Harris, T., Potts, M.D., Valverde, Y., and Vincent, J.R. 2022. Clearly defining "abandoned" land in the context of reforestation. *Frontiers in Forests and Global Change* 5(933877). [doi:10.3389/ffgc.2022.933887](https://doi.org/10.3389/ffgc.2022.933887).
 
 **[14]** **Bukoski, J.J.**, Cook-Patton, S.C., Melikov, C., Ban, H., Liu, J.C., Harris, N., Goldman, E., and Potts, M.D. 2022. Rates and drivers of aboveground carbon accumulation in global monoculture plantation forests. *Nature Communications* 13(4206). [doi:10.1038/s41467-022-31380-7](https://www.nature.com/articles/s41467-022-31380-7). | [U.C. Berkeley Press Release](https://ourenvironment.berkeley.edu/news/2022/07/new-research-identifies-patterns-carbon-accumulation-planted-forests). | [Springer Nature Sustainability Communities](https://sustainabilitycommunity.springernature.com/posts/carbon-accumulation-is-a-key-but-incomplete-criterion-for-restoring-tree-cover?channel_id=behind-the-paper).
@@ -37,11 +40,9 @@ slug: publications
 
 #### In Review & In Revision (drafts available upon request)
 
-Evans, S.G., Haya, B., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. Scientific review of carbon quantification by improved forest management offset protocols. *In review at Frontiers in Forests and Global Change*.
+Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. The effects of management actions on biomass growth in forest plantations. *Accepted at Current Forestry Reports*.
 
-Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. The effects of management actions on biomass growth in forest plantations. *In review at Current Forestry Reports*.
-
-Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *In prep*
+Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *In review at Science*
 
 </br>
 
