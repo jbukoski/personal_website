@@ -6,7 +6,7 @@ slug: publications
 #### Peer-Reviewed Articles
 
 **[16]** Haya, B., Evans, S.G., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. 2023. Comprehensive review of carbon quantification by improved forest management offset protocols. *Frontiers in Forests and Global Change* 6(958879).
-[doi:10.3389/ffgc.2023.958879](https://www.frontiersin.org/articles/10.3389/ffgc.2023.958879/full)
+[doi:10.3389/ffgc.2023.958879](https://www.frontiersin.org/articles/10.3389/ffgc.2023.958879/full). [BNN Bloomberg](https://www.bnnbloomberg.ca/carbon-offset-gatekeepers-are-failing-to-stop-junk-credits-1.1898304). | [Time Magazine](https://time.com/6264772/study-most-carbon-credits-are-bogus/).
 
 **[15]** Holl, K.D., Ashton, M.S., **Bukoski, J.J.**, Culbertson, K., Curran, S., Harris, T., Potts, M.D., Valverde, Y., and Vincent, J.R. 2022. Clearly defining "abandoned" land in the context of reforestation. *Frontiers in Forests and Global Change* 5(933877). [doi:10.3389/ffgc.2022.933887](https://doi.org/10.3389/ffgc.2022.933887).
 
