@@ -12,6 +12,10 @@ A select list of the courses and workshops I have taught is provided below.
 
 #### Courses Taught
 
+**Oregon State University**
+
+- *Forest Carbon Analysis for Assessments and Policy Agreements*, Instructor of Record
+
 **University of California, Berkeley**
 
 - *Applied Forest Ecology: Silviculture*, Instructor of Record
