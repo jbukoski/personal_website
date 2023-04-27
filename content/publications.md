@@ -5,6 +5,8 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
+**[17]** Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. 2023. The effects of management actions on biomass growth in forest plantations. *Current Forestry Reports* [doi:10.1007/240725-023-00182-5](https://doi.org/10.1007/s40725-023-00182-5).
+
 **[16]** Haya, B., Evans, S.G., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. 2023. Comprehensive review of carbon quantification by improved forest management offset protocols. *Frontiers in Forests and Global Change* 6(958879).
 [doi:10.3389/ffgc.2023.958879](https://www.frontiersin.org/articles/10.3389/ffgc.2023.958879/full). | [BNN Bloomberg](https://www.bnnbloomberg.ca/carbon-offset-gatekeepers-are-failing-to-stop-junk-credits-1.1898304). | [Time Magazine](https://time.com/6264772/study-most-carbon-credits-are-bogus/).
 
@@ -40,9 +42,11 @@ slug: publications
 
 #### In Review & In Revision (drafts available upon request)
 
-Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. The effects of management actions on biomass growth in forest plantations. *Accepted at Current Forestry Reports*.
+Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *Submitted to Nature*
 
-Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *In review at Science*
+**Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *In prep*
+
+Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). Is active planting effective in restoring mangrove carbon stocks up to the levels of intact stands? *In prep*.
 
 </br>
 
