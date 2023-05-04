@@ -21,11 +21,8 @@ A select list of the courses and workshops I have taught is provided below.
 **University of California, Berkeley**
 
 - *Applied Forest Ecology: Silviculture*, Instructor of Record
-
 - *Forest Ecosystem Management and Planning*, Graduate Student Instructor.
-
 - *Introduction to the Methods of Environmental Science*, Graduate Student Instructor.
-
 - *Resource Management*, Graduate Student Instructor.
 
 **Yale University**
@@ -36,8 +33,6 @@ A select list of the courses and workshops I have taught is provided below.
 
 #### Workshops
 
-*Analysis of forest structure and carbon stock data using Program R*, U.S. Forest Service, Instructor of Record
-
-*GDAL/OGR software, GeoMatters Working Group*, UC-Berkeley, Instructor of Record
-
-*Massive geocomputation using open source software*, U.C. Berkeley & Yale University, Co-Instructor
+- *Analysis of forest structure and carbon stock data using Program R*, U.S. Forest Service, Instructor of Record
+- *GDAL/OGR software, GeoMatters Working Group*, UC-Berkeley, Instructor of Record
+- *Massive geocomputation using open source software*, U.C. Berkeley & Yale University, Co-Instructor
