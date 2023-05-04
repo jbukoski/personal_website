@@ -14,6 +14,8 @@ A select list of the courses and workshops I have taught is provided below.
 
 **Oregon State University**
 
+- *Interdisciplinary Approaches to Socio-Ecological Problems*, Co-Instructor of Record, with Dr. Reem Hajjar
+- *Case Studies in Forests and Climate Change*, Instructor of Record
 - *Forest Carbon Analysis for Assessments and Policy Agreements*, Instructor of Record
 
 **University of California, Berkeley**
