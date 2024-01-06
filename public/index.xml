@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacob J. Bukoski</title>
-    <link>/</link>
-    <description>Recent content on Jacob J. Bukoski</description>
+    <title>Jacob J. Bukoski, Ph.D.</title>
+    <link>https://jacobjbukoski.com/</link>
+    <description>Recent content on Jacob J. Bukoski, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jacobjbukoski.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CoderPortfolioの特徴</title>
-      <link>/posts/featuresofcoderportfolio.ja/</link>
+      <link>https://jacobjbukoski.com/posts/featuresofcoderportfolio.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/featuresofcoderportfolio.ja/</guid>
+      <guid>https://jacobjbukoski.com/posts/featuresofcoderportfolio.ja/</guid>
       <description>変更点 ShortCode &amp;ldquo;private content&amp;rdquo;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
 実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。
 リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
@@ -29,10 +29,10 @@ ShortCode &amp;ldquo;portfolio&amp;rdquo;を追加しました あなたの作�
     
     <item>
       <title>Features Of CoderPortfolio</title>
-      <link>/posts/featuresofcoderportfolio/</link>
+      <link>https://jacobjbukoski.com/posts/featuresofcoderportfolio/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/featuresofcoderportfolio/</guid>
+      <guid>https://jacobjbukoski.com/posts/featuresofcoderportfolio/</guid>
       <description>Change Point &amp;ldquo;private content&amp;rdquo; short code added. It is now possible to communicate your personal hobby and your own content.
 You can use it easily. Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.
 An animation of red underline was added to Anchor. The site became a little fun and colorful.
@@ -42,10 +42,10 @@ Changed the color scheme of code highlight.</description>
     
     <item>
       <title>Theme Demo</title>
-      <link>/posts/theme-demo/</link>
+      <link>https://jacobjbukoski.com/posts/theme-demo/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/theme-demo/</guid>
+      <guid>https://jacobjbukoski.com/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
@@ -58,10 +58,10 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>テーマデモ</title>
-      <link>/posts/theme-demo.ja/</link>
+      <link>https://jacobjbukoski.com/posts/theme-demo.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/theme-demo.ja/</guid>
+      <guid>https://jacobjbukoski.com/posts/theme-demo.ja/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
@@ -74,10 +74,10 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://jacobjbukoski.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://jacobjbukoski.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -85,30 +85,30 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
+      <link>https://jacobjbukoski.com/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/creating-a-new-theme/</guid>
+      <guid>https://jacobjbukoski.com/posts/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/posts/hugo-template-primer/</link>
+      <link>https://jacobjbukoski.com/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/hugo-template-primer/</guid>
+      <guid>https://jacobjbukoski.com/posts/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/posts/hugoisforlovers/</link>
+      <link>https://jacobjbukoski.com/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/hugoisforlovers/</guid>
+      <guid>https://jacobjbukoski.com/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -119,10 +119,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-from-jekyll/</link>
+      <link>https://jacobjbukoski.com/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/migrate-from-jekyll/</guid>
+      <guid>https://jacobjbukoski.com/posts/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -130,51 +130,51 @@ Follow the following steps:
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>https://jacobjbukoski.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>I am an environmental scientist focused on the ecology, management and restoration of forests, globally. Currently, I am pursuing my Ph.D. at the Department of Environmental Science, Policy, and Management at the University of California, Berkeley. I am also a Data Science for the 21st Century fellow at U.C. Berkeley, in which I integrate data science practices into environmental projects. I have been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England.</description>
+      <guid>https://jacobjbukoski.com/about/</guid>
+      <description>--
+  Jacob (he/him) is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University&amp;rsquo;s Department of Forest Ecosystems &amp;amp; Society. His research focuses on the conservation, management, and restoration of forests, globally. Through his work, he has been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. Previously, he was a postdoctoral associate at Conservation International&amp;rsquo;s Moore Center for Science.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/publications/</link>
+      <link>https://jacobjbukoski.com/opportunities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
-      <description>publications.utf8.md /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?h[i.call(a)]||&#34;object&#34;:typeof a},globalEval:function(b){b&amp;&amp;m.trim(b)&amp;&amp;(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.</description>
+      <guid>https://jacobjbukoski.com/opportunities/</guid>
+      <description>Opportunities I will be recruiting graduate students in the Department of Forest Ecosystems &amp;amp; Society for Fall 2023. Please check back soon for graduate school opportunities at OSU&amp;rsquo;s College of Forestry!
+Contact guidelines I encourage enthusiastic undergraduates and prospective graduate students to reach out. However, I receive a large number of emails and although I do my best to respond to all, your email may slip through the cracks. To help me get back to you in an efficient manner, please do the following:</description>
     </item>
     
     <item>
       <title></title>
-      <link>/publications/</link>
+      <link>https://jacobjbukoski.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
-      <description>Peer-Reviewed Articles Bukoski, J.J., Elwin, A., MacKenzie, R.A., Sharma, S., Purbopuspito, J., Kopania, B., Apwong, M., Poolsiri, R., Potts, M.D. 2020. The role of predictive model data in designing mangrove carbon offset programs. Environmental Research Letters doi:10.1088&amp;#47;1748-9326/ab7e4e.
-Elwin, A., Bukoski, J.J., Robinson, E., Jintana, V., and Clark, J. 2019. &amp;ldquo;Preservation and recovery of mangrove ecosystem carbon stocks in abandoned shrimp ponds.&amp;rdquo; Scientific Reports 9: 18275. doi:10.1038/s41598-019-54893-6.
-Sanderman, J., T. Hengl, G.</description>
+      <guid>https://jacobjbukoski.com/publications/</guid>
+      <description>Peer-Reviewed Articles [17] Melikov, C., Bukoski, J.J., Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. 2023. The effects of management actions on biomass growth in forest plantations. Current Forestry Reports doi:10.1007/s40725-023-00182-5.
+[16] Haya, B., Evans, S.G., Brown, L., Bukoski, J.J., Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. 2023. Comprehensive review of carbon quantification by improved forest management offset protocols. Frontiers in Forests and Global Change 6(958879).</description>
     </item>
     
     <item>
       <title></title>
-      <link>/research/</link>
+      <link>https://jacobjbukoski.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
-      <description>I am broadly interested in the ecology, management and restoration of forests, with a geographic focus on the tropics and western North America. My research occurs through the combination of different data types and approaches - field inventories, statistical modeling, spatial analyses, and critical document review. Given the interdisciplinary nature of forest management, I apply these to both social and ecological systems.
-For my dissertation research, I am exploring these topics through the conservation of mangrove forests.</description>
+      <guid>https://jacobjbukoski.com/research/</guid>
+      <description>I am broadly interested in the ecology, management and restoration of forests, with a geographic focus on the tropics and western North America. My research occurs through the combination of different data types and approaches - field inventories, statistical modeling, spatial analyses, and critical document review. Given the interdisciplinary nature of forest management, I apply these to both social and ecological systems. Broadly speaking, I have explored these topics through mangrove forests and monoculture plantations.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/teaching/</link>
+      <link>https://jacobjbukoski.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
-      <description>Philosophy My teaching methods are designed to strengthen students&amp;rsquo; critical thinking skills and resourcefulness. My goal in teaching is to enforce three qualities I deem critical for success in any professional field:
- an appreciation and preference for information free of potential bias, systematic, critical questioning of the assumptions that lay the foundation of your worldview, and the ability to seek out answers and solutions that may not be readily accessible.</description>
+      <guid>https://jacobjbukoski.com/teaching/</guid>
+      <description>Philosophy My teaching is based in strengthening students&amp;rsquo; critical thinking skills and has won campus-wide teaching awards. I have taught a number of courses at both undergraduate and graduate levels. I have also co-instructed a number of intensive week-long trainings on the use of open source software for processing of massive spatial datasets and the analysis of forest structure and carbon stock data using Program R.
+A select list of the courses and workshops I have taught is provided below.</description>
     </item>
     
   </channel>
