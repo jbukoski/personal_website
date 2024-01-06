@@ -42,11 +42,11 @@ slug: publications
 
 #### In Review & In Revision (drafts available upon request)
 
-Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *Submitted to Nature*
+Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *In review at Nature Climate Change*
 
-**Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *In prep*.
+**Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *In review at Conservation Science & Practice*.
 
-Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). Is active planting effective in restoring mangrove carbon stocks up to the levels of intact stands? *In prep*.
+Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). Is active planting effective in restoring mangrove carbon stocks up to the levels of intact stands? *In review at Science Advances*.
 
 </br>
 
@@ -56,7 +56,7 @@ Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, 
 
 Wolosin, M., Hole, D., Griscom, B., Rockstrom, J., Barrera, L., Beringer, T., **Bukoski, J.J.**, Comstock, M., Goldstein, A., Hepp, J., Kasprzyk, K., Loken, B., Munshi, E., Noon, M., Roehrdanz, P., Roopsind, A., Shrestha, S., Sprenkle-Hyppolite, S., Tabor, K., Toirai, E., and Wood, M. 2022. Exponential roadmap for natural climate solutions. *Conservation International.* Arlington, VA. [PDF](https://www.conservation.org/roadmap-pdf)
 
-Wilson, S.J., Metzel, R., Harrigan, E., Sprenkle-Hyppolite, S., Begeladze,S., **Bukoski,J.J.**, Donatti, C., Hillman, I. 2022. Where to restore? Using spatial data to inform restoration prioritization for climate, biodiversity, and community benefits. *Conservation International*.
+Wilson, S.J., Metzel, R., Harrigan, E., Sprenkle-Hyppolite, S., Begeladze,S., **Bukoski, J.J.**, Donatti, C., Hillman, I. 2022. Where to restore? Using spatial data to inform restoration prioritization for climate, biodiversity, and community benefits. *Conservation International*.
 
 **Bukoski, J.J.**, and Holland, T. 2019. Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report. Report submitted to: The World Bank & the Department of Forestry of the Republic of Vanuatu. *Climate Law & Policy*.
 
