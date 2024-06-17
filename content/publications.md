@@ -5,6 +5,12 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
+**[20]** Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). Four decades of data indicate that planted mangroves stored up to 75% of the carbon stocks found in intactmature stands. *Science Advances*. [Conditionally Accepted]
+
+**[19]** Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Cost-effectiveness of natural forest regeneration and plantations for climate mitigation. *Nature Climate Change* [Accepted]
+
+**[18]** Holl, KD, **Bukoski, J.J.**, Curran, S.R., Potts, M.D., and Vincent, J.R. Abandoned land: Overestimated potential. *Science* 381(6655), 277-278.
+
 **[17]** Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. 2023. The effects of management actions on biomass growth in forest plantations. *Current Forestry Reports* [doi:10.1007/s40725-023-00182-5](https://doi.org/10.1007/s40725-023-00182-5).
 
 **[16]** Haya, B., Evans, S.G., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. 2023. Comprehensive review of carbon quantification by improved forest management offset protocols. *Frontiers in Forests and Global Change* 6(958879).
@@ -42,11 +48,9 @@ slug: publications
 
 #### In Review & In Revision (drafts available upon request)
 
-Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Tree plantations vs. natural forest regeneration: Relative cost-effectiveness at mitigating climate change. *In review at Nature Climate Change*
-
 **Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *In review at Conservation Science & Practice*.
 
-Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). Is active planting effective in restoring mangrove carbon stocks up to the levels of intact stands? *In review at Science Advances*.
+Slobodian, L., Buelow, C., Baker, S.C., Alvarez, S., Wood, K.C., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.** et al (+ 11 co-authors). Quantifying the presence and potential of national legal frameworks for global mangrove protection. *Submitted to PNAS*
 
 </br>
 
