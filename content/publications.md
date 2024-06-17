@@ -9,9 +9,9 @@ slug: publications
 
 **[19]** Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Cost-effectiveness of natural forest regeneration and plantations for climate mitigation. *Nature Climate Change* [Accepted]
 
-**[18]** Holl, KD, **Bukoski, J.J.**, Curran, S.R., Potts, M.D., and Vincent, J.R. Abandoned land: Overestimated potential. *Science* 381(6655), 277-278.
+**[18]** Holl, KD, **Bukoski, J.J.**, Curran, S.R., Potts, M.D., and Vincent, J.R. Abandoned land: Overestimated potential. *Science* 381(6655), 277-278. [doi:10.1126/science.adi8780](https://www.science.org/doi/10.1126/science.adi8780)
 
-**[17]** Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. 2023. The effects of management actions on biomass growth in forest plantations. *Current Forestry Reports* [doi:10.1007/s40725-023-00182-5](https://doi.org/10.1007/s40725-023-00182-5).
+**[17]** Melikov, C., **Bukoski, J.J.**, Ban, H., Chen, J.L., Cook-Patton, S.C., and Potts, M.D. 2023. The effects of management actions on biomass growth in forest plantations. *Current Forestry Reports* 9(2023), 131-148. [doi:10.1007/s40725-023-00182-5](https://doi.org/10.1007/s40725-023-00182-5).
 
 **[16]** Haya, B., Evans, S.G., Brown, L., **Bukoski, J.J.**, Butsic, V., Cabiyo, B., Jacobson, R., Kerr, A., Potts, M.D., and Sanchez, D.L. 2023. Comprehensive review of carbon quantification by improved forest management offset protocols. *Frontiers in Forests and Global Change* 6(958879).
 [doi:10.3389/ffgc.2023.958879](https://www.frontiersin.org/articles/10.3389/ffgc.2023.958879/full). | [BNN Bloomberg](https://www.bnnbloomberg.ca/carbon-offset-gatekeepers-are-failing-to-stop-junk-credits-1.1898304). | [Time Magazine](https://time.com/6264772/study-most-carbon-credits-are-bogus/).
