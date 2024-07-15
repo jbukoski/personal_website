@@ -5,9 +5,11 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
-**[20]** Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). Four decades of data indicate that planted mangroves stored up to 75% of the carbon stocks found in intactmature stands. *Science Advances*. [Conditionally Accepted]
+**21** **Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. 2024. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *Conservation Science & Practice*. [Accepted]
 
-**[19]** Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. Cost-effectiveness of natural forest regeneration and plantations for climate mitigation. *Nature Climate Change* [Accepted]
+**[20]** Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. 2024. Cost-effectiveness of natural forest regeneration and plantations for climate mitigation. *Nature Climate Change*. [Accepted]
+
+**[19]** Bourgeois, C., Mackenzie, R.A., Sharma, S., Bhomia, R.K., Johnson, N.G., Rovai, A.S., Worthington, T.A., Krauss, K.W., Analuddin, K., **Bukoski, J.J.**, et al (+ 12 coauthors). 2024. Four decades of data indicate that planted mangroves stored up to 75% of the carbon stocks found in intact mature stands. *Science Advances*. 10(27): eadk5430. doi: [doi:10.1126/sciadv.adk5430](https://www.science.org/doi/10.1126/sciadv.adk5430) | [USFS Press Release](https://research.fs.usda.gov/psw/news/releases/scientists-release-new-research-planted-mangroves-ability-store-carbon)
 
 **[18]** Holl, KD, **Bukoski, J.J.**, Curran, S.R., Potts, M.D., and Vincent, J.R. Abandoned land: Overestimated potential. *Science* 381(6655), 277-278. [doi:10.1126/science.adi8780](https://www.science.org/doi/10.1126/science.adi8780)
 
@@ -36,9 +38,9 @@ slug: publications
 
 **[6]** Swamy, L., Drazen, E., Johnson, W.R., and **Bukoski, J.J.** 2018. The future of tropical forests under the united nations sustainable development goals. *Journal of Sustainable Forestry* 37 (2): 1–36. [doi:10.1080&#47;10549811.2017.1416477](https://www.tandfonline.com/doi/abs/10.1080/10549811.2017.1416477). | [Yale Press Release](https://environment.yale.edu/news/article/tropical-forests-are-key-to-achieving-sustainable-development-by-2030/)
 
-**[5]** **Bukoski, J.J.**, Drazen, E., Johnson, W.R., and Swamy, L. 2018. Tropical forests for sustainable development: Shaping the 2030 agenda for sustainable development with knowledge from the field. *Journal of Sustainable Forestry* 37 (2): 77–81. [doi:10.1080&#47;10549811.2018.1418255](https://www.tandfonline.com/doi/full/10.1080/10549811.2018.1418255).
+**[5]** **Bukoski, J.J.**, Drazen, E., Johnson, W.R., and Swamy, L. 2018. Tropical forests for sustainable development: Shaping the 2030 agenda for sustainable development with knowledge from the field. *Journal of Sustainable Forestry* 37(2): 77–81. [doi:10.1080&#47;10549811.2018.1418255](https://www.tandfonline.com/doi/full/10.1080/10549811.2018.1418255).
 
-**[4]** **Bukoski, J.J.**, Broadhead, J.S., Donato, D.C., Murdiyarso, D., and Gregoire, T.G. 2017. The use of mixed effects models for obtaining low-cost ecosystem carbon stock estimates in mangroves of the Asia-Pacific. *PLoS One* 12 (1): e0169096. [doi:10.1371/journal.pone.0169096](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169096).
+**[4]** **Bukoski, J.J.**, Broadhead, J.S., Donato, D.C., Murdiyarso, D., and Gregoire, T.G. 2017. The use of mixed effects models for obtaining low-cost ecosystem carbon stock estimates in mangroves of the Asia-Pacific. *PLoS One* 12(1): e0169096. [doi:10.1371/journal.pone.0169096](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169096).
 
 **[3]** **Bukoski J.J.** Chaiwiwatworakul, P., and Gheewala, S.H. 2017. “The life cycle assessment of an energy-positive peri-urban residence in a tropical regime.” *Journal of Industrial Ecology* 21 (5): 1115–27. [doi:10.1111/jiec.12494](https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12494).
 
@@ -47,8 +49,6 @@ slug: publications
 **[1]** **Bukoski, J.**, Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. *Energy and Buildings* 72: 150–56. [doi:10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
 
 #### In Review & In Revision (drafts available upon request)
-
-**Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *In review at Conservation Science & Practice*.
 
 Slobodian, L., Buelow, C., Baker, S.C., Alvarez, S., Wood, K.C., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.** et al (+ 11 co-authors). Quantifying the presence and potential of national legal frameworks for global mangrove protection. *Submitted to PNAS*
 
