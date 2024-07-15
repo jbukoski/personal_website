@@ -5,7 +5,7 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
-**21** **Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. 2024. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *Conservation Science & Practice*. [Accepted]
+**[21]** **Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. 2024. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *Conservation Science & Practice*. [Accepted]
 
 **[20]** Busch, J., **Bukoski, J.J.**, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. 2024. Cost-effectiveness of natural forest regeneration and plantations for climate mitigation. *Nature Climate Change*. [Accepted]
 
