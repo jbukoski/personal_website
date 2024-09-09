@@ -20,10 +20,10 @@ Get in touch at jacob.bukoski@oregonstate.edu.
 <div style="font-size: 115%" align="center">
 
   <a href=https://github.com/jbukoski><i class="fab fa-github fa-lg fa-fw"></i></a> | 
-  <a href=https://twitter.com/JacobBukoski><i class="fab fa-twitter"></i></a> | 
-  <a href=https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao><i class="ai ai-google-scholar-square"></i></a> |
-  <a href=https://www.researchgate.net/profile/Jacob_Bukoski><i class="ai ai-researchgate"></i></a> | 
-  <a href=https://www.linkedin.com/in/jacob-bukoski-66728535/><i class="fab fa-linkedin"></i></a>
+  <a href=https://twitter.com/JacobBukoski><i class="fab fa-twitter fa-lg fa-fw"></i></a> | 
+  <a href=https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao><i class="ai ai-google-scholar-square fa-lg fa-fw"></i></a> |
+  <a href=https://www.researchgate.net/profile/Jacob_Bukoski><i class="ai ai-researchgate "></i></a> | 
+  <a href=https://www.linkedin.com/in/jacob-bukoski-66728535/><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
 
 </div>
 
