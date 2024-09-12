@@ -16,7 +16,7 @@ pygmentsUseClasses = true
 
 [params]
     author = "Jacob J. Bukoski, Ph.D."
-    description = "I am an environmental scientist researching the ecology, management and restoration of forests, globally."
+    description = "Jacob Bukoski is an assistant professor in the College of Forestry at Oregon State University."
     keywords = "Jacob Bukoski, Jacob J. Bukoski"
     title = "Jacob J. Bukoski, Ph.D."
 
@@ -54,7 +54,6 @@ pygmentsUseClasses = true
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Jacob J. Bukoski"
-            info = "Environmental Scientist"
             description = "Jacob Bukoski is an assistant professor in the College of Forestry at Oregon State University."
             keywords = "Jacob J. Bukoski, Jacob Bukoski"
 
