@@ -1,155 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://jacobjbukoski.com/posts/featuresofcoderportfolio.ja/</loc>
+    <loc>http://localhost:4321/posts/featuresofcoderportfolio.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/featuresofcoderportfolio/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/</loc>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/theme-demo/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/theme-demo/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/theme-demo.ja/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/theme-demo.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/categories/</loc>
+  </url><url>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/post/2015-07-23-r-rmarkdown/</loc>
+  </url><url>
+    <loc>http://localhost:4321/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/plot/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/post/</loc>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/categories/r/</loc>
+  </url><url>
+    <loc>http://localhost:4321/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/r-markdown/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/regression/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/creating-a-new-theme/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/hugo-template-primer/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/categories/development/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/development/</loc>
+  </url><url>
+    <loc>http://localhost:4321/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/hugoisforlovers/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/go/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/categories/golang/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/golang/</loc>
+  </url><url>
+    <loc>http://localhost:4321/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/hugo/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/templates/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/tags/themes/</loc>
+  </url><url>
+    <loc>http://localhost:4321/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/posts/migrate-from-jekyll/</loc>
+  </url><url>
+    <loc>http://localhost:4321/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/about/</loc>
+  </url><url>
+    <loc>http://localhost:4321/opportunities/</loc>
+  </url><url>
+    <loc>http://localhost:4321/publications/</loc>
+  </url><url>
+    <loc>http://localhost:4321/research/</loc>
+  </url><url>
+    <loc>http://localhost:4321/teaching/</loc>
   </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/opportunities/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jacobjbukoski.com/teaching/</loc>
-  </url>
-  
 </urlset>

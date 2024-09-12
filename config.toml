@@ -57,7 +57,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.params]
             author = "Jacob J. Bukoski"
             info = "Environmental Scientist"
-            description = "I study the ecology, management, and restoration of forests."
+            description = "Jacob Bukoski is an assistant professor in the College of Forestry at Oregon State University."
             keywords = "Jacob J. Bukoski, Jacob Bukoski"
 
         [languages.en.menu] # It is possible to change the menu too.
