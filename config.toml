@@ -14,8 +14,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
-disqusShortname = "yourdiscussshortname"
-
 [params]
     author = "Jacob J. Bukoski, Ph.D."
     description = "I am an environmental scientist researching the ecology, management and restoration of forests, globally."

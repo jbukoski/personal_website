@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob J. Bukoski, Ph.D.</title>
-    <link>http://localhost:4321/</link>
+    <link>https://jacobjbukoski.com/</link>
     <description>Recent content on Jacob J. Bukoski, Ph.D.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jacobjbukoski.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CoderPortfolioの特徴</title>
-      <link>http://localhost:4321/posts/featuresofcoderportfolio.ja/</link>
+      <link>https://jacobjbukoski.com/posts/featuresofcoderportfolio.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/featuresofcoderportfolio.ja/</guid>
+      <guid>https://jacobjbukoski.com/posts/featuresofcoderportfolio.ja/</guid>
       <description>&lt;h2 id=&#34;変更点&#34;&gt;変更点&lt;/h2&gt;&#xA;&lt;h3 id=&#34;shortcode-private-contentを追加しました&#34;&gt;ShortCode &amp;ldquo;private content&amp;quot;を追加しました&lt;/h3&gt;&#xA;&lt;p&gt;綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。&lt;br&gt;&#xA;実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;リンクに赤い下線のアニメーションを追加しました&#34;&gt;リンクに赤い下線のアニメーションを追加しました&lt;/h3&gt;&#xA;&lt;p&gt;サイトがよりカラフルに美しくなりました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;snsシェアのボタンを追加しました&#34;&gt;SNSシェアのボタンを追加しました&lt;/h3&gt;&#xA;&lt;p&gt;あなたの記事がより影響力を持つようになりました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;コードのハイライトを変更しました&#34;&gt;コードのハイライトを変更しました&lt;/h3&gt;&#xA;&lt;p&gt;日本のサービス &lt;a href=&#34;https://qiita.com/&#34;&gt;Qiita&lt;/a&gt; のハイライトを参照しました。&lt;br&gt;&#xA;とても優しく美しいハイライトです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ヘッダーに影を追加しました&#34;&gt;ヘッダーに影を追加しました&lt;/h3&gt;&#xA;&lt;p&gt;より境界線がはっきりしました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;shortcode-portfolioを追加しました&#34;&gt;ShortCode &amp;ldquo;portfolio&amp;quot;を追加しました&lt;/h3&gt;&#xA;&lt;p&gt;あなたの作品を綺麗に表示できるようになりました。&#xA;実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Features Of CoderPortfolio</title>
-      <link>http://localhost:4321/posts/featuresofcoderportfolio/</link>
+      <link>https://jacobjbukoski.com/posts/featuresofcoderportfolio/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/featuresofcoderportfolio/</guid>
+      <guid>https://jacobjbukoski.com/posts/featuresofcoderportfolio/</guid>
       <description>&lt;h2 id=&#34;change-point&#34;&gt;Change Point&lt;/h2&gt;&#xA;&lt;h3 id=&#34;private-content-short-code-added&#34;&gt;&amp;ldquo;private content&amp;rdquo; short code added.&lt;/h3&gt;&#xA;&lt;p&gt;It is now possible to communicate your personal hobby and your own content.&lt;br&gt;&#xA;You can use it easily.&#xA;Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.&lt;/p&gt;&#xA;&lt;h3 id=&#34;an-animation-of-red-underline-was-added-to-anchor&#34;&gt;An animation of red underline was added to Anchor.&lt;/h3&gt;&#xA;&lt;p&gt;The site became a little fun and colorful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-button-of-the-sns-share-was-added&#34;&gt;The button of the SNS share was added.&lt;/h3&gt;&#xA;&lt;p&gt;It became to have an influence when writing articles more.&lt;/p&gt;&#xA;&lt;h3 id=&#34;changed-the-color-scheme-of-code-highlight&#34;&gt;Changed the color scheme of code highlight.&lt;/h3&gt;&#xA;&lt;p&gt;I am referring to the color scheme of service &lt;a href=&#34;https://qiita.com/&#34;&gt;Qiita&lt;/a&gt; in Japan.&lt;br&gt;&#xA;This color scheme is gentle and wonderful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Theme Demo</title>
-      <link>http://localhost:4321/posts/theme-demo/</link>
+      <link>https://jacobjbukoski.com/posts/theme-demo/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/theme-demo/</guid>
+      <guid>https://jacobjbukoski.com/posts/theme-demo/</guid>
       <description>&lt;h2 id=&#34;style-demo&#34;&gt;Style Demo&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1-heading&#34;&gt;h1 Heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;Deleted text&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\sum_{n=1}^{\infty} 2^{-n} = 1&#xA;$$&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Heading&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Another heading&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Block quotes are&#xA;written like so.&lt;/p&gt;&#xA;&lt;p&gt;They can span multiple paragraphs,&#xA;if you like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>テーマデモ</title>
-      <link>http://localhost:4321/posts/theme-demo.ja/</link>
+      <link>https://jacobjbukoski.com/posts/theme-demo.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/theme-demo.ja/</guid>
+      <guid>https://jacobjbukoski.com/posts/theme-demo.ja/</guid>
       <description>&lt;h2 id=&#34;style-demo&#34;&gt;Style Demo&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1-heading&#34;&gt;h1 Heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;Deleted text&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\sum_{n=1}^{\infty} 2^{-n} = 1&#xA;$$&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Heading&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Another heading&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;text&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Block quotes are&#xA;written like so.&lt;/p&gt;&#xA;&lt;p&gt;They can span multiple paragraphs,&#xA;if you like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:4321/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://jacobjbukoski.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://jacobjbukoski.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;&#xA;&lt;h1&gt;R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;&#xA;&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&#xA;##      speed           dist       &#xA;##  Min.   : 4.0   Min.   :  2.00  &#xA;##  1st Qu.:12.0   1st Qu.: 26.00  &#xA;##  Median :15.0   Median : 36.00  &#xA;##  Mean   :15.4   Mean   : 42.98  &#xA;##  3rd Qu.:19.0   3rd Qu.: 56.00  &#xA;##  Max.   :25.0   Max.   :120.00&#xA;fit &amp;lt;- lm(dist ~ speed, data = cars)&#xA;fit&#xA;## &#xA;## Call:&#xA;## lm(formula = dist ~ speed, data = cars)&#xA;## &#xA;## Coefficients:&#xA;## (Intercept)        speed  &#xA;##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;/div&gt;&#xA;&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;&#xA;&lt;h1&gt;Including Plots&lt;/h1&gt;&#xA;&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating a New Theme</title>
-      <link>http://localhost:4321/posts/creating-a-new-theme/</link>
+      <link>https://jacobjbukoski.com/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/creating-a-new-theme/</guid>
+      <guid>https://jacobjbukoski.com/posts/creating-a-new-theme/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
     </item>
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://localhost:4321/posts/hugo-template-primer/</link>
+      <link>https://jacobjbukoski.com/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/hugo-template-primer/</guid>
+      <guid>https://jacobjbukoski.com/posts/hugo-template-primer/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://localhost:4321/posts/hugoisforlovers/</link>
+      <link>https://jacobjbukoski.com/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://localhost:4321/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;&#xA;&lt;p&gt;Follow the following steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clone the &lt;a href=&#34;http://github.com/spf13/hugo&#34;&gt;hugo repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Go into the repo&lt;/li&gt;&#xA;&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;&#xA;&lt;li&gt;Open your browser to http://localhost:1313&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Corresponding pseudo commands:&lt;/p&gt;</description>
+      <guid>https://jacobjbukoski.com/posts/hugoisforlovers/</guid>
+      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://jacobjbukoski.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;&#xA;&lt;p&gt;Follow the following steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clone the &lt;a href=&#34;http://github.com/spf13/hugo&#34;&gt;hugo repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Go into the repo&lt;/li&gt;&#xA;&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;&#xA;&lt;li&gt;Open your browser to http://localhost:1313&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Corresponding pseudo commands:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://localhost:4321/posts/migrate-from-jekyll/</link>
+      <link>https://jacobjbukoski.com/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/migrate-from-jekyll/</guid>
+      <guid>https://jacobjbukoski.com/posts/migrate-from-jekyll/</guid>
       <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ images/&#xA;        logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ static/&#xA;        ▾ images/&#xA;            logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:4321/about/</link>
+      <link>https://jacobjbukoski.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/</guid>
+      <guid>https://jacobjbukoski.com/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Jacob (he/him) is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University&amp;rsquo;s &lt;a href=&#34;https://directory.forestry.oregonstate.edu/people/bukoski-jacob&#34;&gt;Department of Forest Ecosystems &amp;amp; Society&lt;/a&gt;. His research focuses on the conservation, management, and restoration of forests, globally. Through his work, he has been fortunate enough to work in forests across the globe - including Thailand, Vietnam, Vanuatu, Brazil, California, and New England. Previously, he was a postdoctoral associate at Conservation International&amp;rsquo;s Moore Center for Science. Jacob earned his Ph.D. in the Department of Environmental Science, Policy, and Management at the University of California, Berkeley. In addition to his position at Oregon State University, Jacob is a Science Advisor at &lt;a href=&#34;https://www.carbon-direct.com/people/dr-jacob-bukoski&#34;&gt;Carbon Direct&lt;/a&gt; and an Associate Editor at the &lt;a href=&#34;https://www.tandfonline.com/toc/wjsf20/current&#34;&gt;Journal of Sustainable Forestry&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:4321/opportunities/</link>
+      <link>https://jacobjbukoski.com/opportunities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/opportunities/</guid>
+      <guid>https://jacobjbukoski.com/opportunities/</guid>
       <description>&lt;h4 id=&#34;opportunities&#34;&gt;Opportunities&lt;/h4&gt;&#xA;&lt;p&gt;I will be recruiting graduate students in the Department of Forest Ecosystems &amp;amp; Society for Fall 2023. Please check back soon for graduate school opportunities at OSU&amp;rsquo;s College of Forestry!&lt;/p&gt;&#xA;&lt;h4 id=&#34;contact-guidelines&#34;&gt;Contact guidelines&lt;/h4&gt;&#xA;&lt;p&gt;I encourage enthusiastic undergraduates and prospective graduate students to reach out. However, I receive a large number of emails and although I do my best to respond to all, your email may slip through the cracks. To help me get back to you in an efficient manner, please do the following:&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:4321/publications/</link>
+      <link>https://jacobjbukoski.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/</guid>
+      <guid>https://jacobjbukoski.com/publications/</guid>
       <description>&lt;h4 id=&#34;peer-reviewed-articles&#34;&gt;Peer-Reviewed Articles&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;[21]&lt;/strong&gt; &lt;strong&gt;Bukoski, J.J.&lt;/strong&gt;, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. 2024. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. &lt;em&gt;Conservation Science &amp;amp; Practice&lt;/em&gt;. e13193. DOI: &lt;a href=&#34;https://doi.org/10.1111/csp2.13193&#34;&gt;10.1111/csp2.13193&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;[20]&lt;/strong&gt; Busch, J., &lt;strong&gt;Bukoski, J.J.&lt;/strong&gt;, Cook-Patton, S.C., Griscom, B., Kaczan, D., Li, Y., Potts, M.D., and Vincent, J.R. 2024. Cost-effectiveness of natural forest regeneration and plantations for climate mitigation. &lt;em&gt;Nature Climate Change&lt;/em&gt;. 14(2024):996-1002. DOI: &lt;a href=&#34;https://doi.org/10.1038/s41558-024-02068-1&#34;&gt;10.1038/s41558-024-02068-1&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:4321/research/</link>
+      <link>https://jacobjbukoski.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/</guid>
+      <guid>https://jacobjbukoski.com/research/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am broadly interested in the ecology, management and restoration of forests, with a geographic focus on the tropics and western North America. My research occurs through the combination of different data types and approaches - field inventories, statistical modeling, spatial analyses, and critical document review. Given the interdisciplinary nature of forest management, I apply these to both social and ecological systems. Broadly speaking, I have explored these topics through mangrove forests and monoculture plantations. As my research has a strong applied component, I also develop data-driven tools to inform environmental decision-making, particularly for those without extensive resources or specialist support.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:4321/teaching/</link>
+      <link>https://jacobjbukoski.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/</guid>
+      <guid>https://jacobjbukoski.com/teaching/</guid>
       <description>&lt;p&gt;&lt;strong&gt;FES 525: Interdisciplinary Approaches to Socio-Ecological Problems&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This course introduces students to inter-, multi- and transdisciplinary approaches to socio-ecological problems, including terminology, assumptions, and analytical frameworks of different scientific fields. Teams of students are guided in the application of concepts, tools, and approaches in a final integrated analysis that typically results in proposed actions or policy recommendations and is conducted on behalf of forest interest-holders in Oregon. This is a required course for all graduate students in the Forest Ecosystems &amp;amp; Society department. &lt;em&gt;(fall terms, co-taught with Dr. Reem Hajjar)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
