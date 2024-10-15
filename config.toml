@@ -72,7 +72,7 @@ pygmentsUseClasses = true
             [[languages.en.menu.main]]
                 name = "People"
                 weight = 3.0
-               url = "people"
+                url = "people"
                
             [[languages.en.menu.main]]
                 name = "Publications"
@@ -82,7 +82,7 @@ pygmentsUseClasses = true
             [[languages.en.menu.main]]
                 name = "Opportunities"
                 weight = 5.0
-               url = "opportunities"
+                url = "opportunities"
 
 #            [[languages.en.menu.main]]
 #                name = "Blog"

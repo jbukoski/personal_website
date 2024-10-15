@@ -1,6 +1,6 @@
 ---
-description: about
-slug: about
+description: people
+slug: people
 ---
 
 <link rel="stylesheet" href="./academicons-1.8.0/css/academicons.css"/>
