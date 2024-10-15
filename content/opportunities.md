@@ -6,6 +6,8 @@ description: "opportunities"
 
 I will be recruiting graduate students in the Department of Forest Ecosystems & Society for Fall 2024. Please check back soon for graduate school opportunities at OSU's College of Forestry!
 
+Please get in touch!
+
 
 #### Contact guidelines
 
