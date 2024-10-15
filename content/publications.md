@@ -50,7 +50,11 @@ slug: publications
 
 #### In Review & In Revision (drafts available upon request)
 
-Slobodian, L., Buelow, C., Baker, S.C., Alvarez, S., Wood, K.C., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.** et al (+ 11 co-authors). Quantifying the presence and potential of national legal frameworks for global mangrove protection. *Submitted to PNAS*
+Slobodian, L., Buelow, C., Baker, S.C., Alvarez, S., Wood, K.C., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.** et al (+ 11 co-authors). Quantifying the presence and potential of national legal frameworks for global mangrove protection. *In review at Cell Reports Sustainability*
+
+Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., **Bukoski, J.J.**, Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. *In review at PNAS*
+
+Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and **Bukoski, J.J.** Accounting for albedo in carbon market protocols. *Submitted to Nature Climate Change*
 
 </br>
 
