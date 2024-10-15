@@ -49,7 +49,7 @@ pygmentsUseClasses = true
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "BUKOSKI LAB"
+        title = "The Bukoski Lab"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
