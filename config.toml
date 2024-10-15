@@ -1,6 +1,6 @@
 baseurl = "https://jacobjbukoski.com"
 title = "Jacob J. Bukoski, Ph.D."
-
+titleSeparator = "|"
 theme = "hugo-coder-portfolio"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
