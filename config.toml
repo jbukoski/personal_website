@@ -1,5 +1,5 @@
 baseurl = "https://jacobjbukoski.com"
-title = "Jacob J. Bukoski, Ph.D."
+title = "BUKOSKI LAB"
 titleSeparator = "|"
 theme = "hugo-coder-portfolio"
 
@@ -18,7 +18,7 @@ pygmentsUseClasses = true
     author = "Jacob J. Bukoski, Ph.D."
     description = "Jacob Bukoski is an assistant professor in the College of Forestry at Oregon State University."
     keywords = "Jacob Bukoski, Jacob J. Bukoski"
-    title = "Jacob J. Bukoski, Ph.D."
+    title = "Bukoski Lab"
 
     hideCredits = true
     hideCopyright = true
