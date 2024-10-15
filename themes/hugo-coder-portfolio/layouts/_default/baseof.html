@@ -10,7 +10,7 @@
     {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    <meta property="og:title" content="{{ block "og-title" . }}{{ .Site.Title }}{{ end }}">
+    <meta property="og:title" content="{{ block "og-title" . }}{{ end }}"> <!-- {{ .Site.Title }} -->
     <meta property="og:description" content="{{ if .IsPage }}{{ .Params.description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ .Permalink }}">
