@@ -8,7 +8,7 @@ slug: people
 <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css"> -->
 
 <div>
-  <img class="headshot" src="./headshot.jpg" width="275" align="left" style = "padding-bottom:10%; padding-top:2%">
+  <img class="headshot" src="./headshot.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
 </div>
 
 </br>
@@ -23,6 +23,7 @@ Jacob (he/him) is an Assistant Professor and the Director of the Forests and Cli
   <a href=https://www.linkedin.com/in/jacob-bukoski-66728535/><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
 
 </div>
-
+<div>
 Email: jacob.bukoski (at) oregonstate.edu
+</div>
 ---
