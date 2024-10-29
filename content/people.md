@@ -15,9 +15,7 @@ Jacob (he/him) is an Assistant Professor and the Director of the Forests and Cli
 
 Get in touch at jacob.bukoski@oregonstate.edu.
 
----
-
-<div style="font-size: 115%" align="center">
+<div style="font-size: 115%" align="left">
 
   <a href=https://github.com/jbukoski><i class="fab fa-github fa-lg fa-fw"></i></a> | 
   <a href=https://twitter.com/JacobBukoski><i class="fab fa-twitter fa-lg fa-fw"></i></a> | 
@@ -27,3 +25,4 @@ Get in touch at jacob.bukoski@oregonstate.edu.
 
 </div>
 
+---
