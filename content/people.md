@@ -11,6 +11,7 @@ slug: people
   <img class="headshot" src="./headshot.jpg" width="275" align="left" style = "padding-bottom:10%; padding-top:2%">
 </div>
 
+</br>
 Jacob (he/him) is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University's [Department of Forest Ecosystems & Society](https://directory.forestry.oregonstate.edu/people/bukoski-jacob). Prior to Oregon State University, he was a postdoctoral associate at Conservation International's Moore Center for Science. Jacob earned his Ph.D. in the Department of Environmental Science, Policy, and Management at the University of California, Berkeley. In addition to his position at Oregon State University, Jacob is a Science Advisor at [Carbon Direct](https://www.carbon-direct.com/people/dr-jacob-bukoski) and an Associate Editor at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
 
 <div style="font-size: 115%" align="left">
