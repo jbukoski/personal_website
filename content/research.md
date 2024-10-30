@@ -10,7 +10,7 @@ We broadly work on the science, policy, and management of forest-based climate s
 ---
 
 
-#### Quantifying carbon dynamics in forested social-environmental systems
+#### carbon dynamics in forested social-environmental systems
 
 <div>
 
