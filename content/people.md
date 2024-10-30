@@ -5,7 +5,7 @@ slug: people
 
 <link rel="stylesheet" href="./academicons-1.8.0/css/academicons.css"/>
 <link rel="stylesheet" href="./fontawesome-free-5.11.2-web/css/all.css"/>
-<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css">
 
 <div>
   <img class="headshot" src="./headshotNew.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
@@ -25,6 +25,6 @@ slug: people
 
 </div>
 
-<div> Email: jacob.bukoski (at) oregonstate.edu </div>
+<div> Email: jacob.bukoski [at] oregonstate.edu </div>
 
 ---
