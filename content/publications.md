@@ -48,13 +48,13 @@ slug: publications
 
 **[1]** **Bukoski, J.**, Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. *Energy and Buildings* 72: 150–56. DOI: [10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
 
-#### In Review & In Revision (drafts available upon request)
+#### In Review & In Revision
 
 Slobodian, L., Buelow, C., Baker, S.C., Alvarez, S., Wood, K.C., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.** et al (+ 11 co-authors). Quantifying the presence and potential of national legal frameworks for global mangrove protection. *In review at Cell Reports Sustainability*
 
 Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., **Bukoski, J.J.**, Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. *In review at PNAS*
 
-Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and **Bukoski, J.J.** Accounting for albedo in carbon market protocols. *Submitted to Nature Climate Change*
+Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and **Bukoski, J.J.** Accounting for albedo in carbon market protocols. *Submitted to Nature Communications*
 
 </br>
 

@@ -13,7 +13,7 @@ We broadly work on the science, policy, and management of forest-based climate s
 
 <img src="./figure.png" width="30%" align="right" style="padding-right: 3%; padding-left: 2%">
 
-The factors that control carbon dynamics within and across forests remain poorly quantified, despite rapid scientific and technological advances. We use a combination of empirical field studies, statistical modeling, and spatial data science to quantify carbon cycling processes in forests. We work in a variety of forest types, but are particularly fond of mangroves, plantation forests, and temperate coniferous forests of the Pacific Northwest. Our carbon dynamics research aims to improve understanding of how carbon sequestration and storage varies across space and time, providing insights for conservation and climate mitigation strategies.
+The social and environmental factors that shape carbon dynamics within and across forests remain poorly quantified, despite rapid scientific and technological advances. We use a combination of empirical field studies, statistical modeling, and spatial data science to quantify carbon cycling processes in forests. We work in a variety of forest types, but are particularly fond of mangroves, plantation forests, and temperate coniferous forests of the Pacific Northwest. Our carbon dynamics research aims to improve understanding of how carbon sequestration and storage varies with space and time across different forest types, and is the foundation for our applied research efforts.
 
 </br>
 
