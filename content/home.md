@@ -10,10 +10,9 @@ slug: "home"
 
 </div>
 
----
+<div style="clear: both;"></div>
 
-</br>
-</br>
+---
 
 #### Welcome to the Bukoski Lab at Oregon State University!
 
