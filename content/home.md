@@ -3,11 +3,14 @@ description: "home"
 slug: "home"
 ---
 
+<div>
+
 <img src="./forest4.jpg" width="48%" align="left" style="padding-right: 0%">
 <img src="./mangrove.jpg" width="48%" align="right" style="padding-right: 0%">
 
----
+</div>
 
+</br>
 </br>
 
 #### Welcome to the Bukoski Lab at Oregon State University!
