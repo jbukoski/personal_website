@@ -3,6 +3,7 @@ description: people
 slug: people
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./academicons-1.8.0/css/academicons.css"/>
 <link rel="stylesheet" href="./fontawesome-free-5.11.2-web/css/all.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css">
