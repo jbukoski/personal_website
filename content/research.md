@@ -9,12 +9,15 @@ We broadly work on the science, policy, and management of forest-based climate s
 
 ---
 
-<img src="./field_work.jpg" width="20%" align="left" style="padding-right: 3%;">
+<img src="./field_work.jpg" width="20%" align="right" style="padding-right: 3%;">
+
+<div>
 
 #### Quantifying carbon dynamics in forested social-environmental systems
 
 The factors that control carbon dynamics within and across forests remains poorly quantified across multiple spatial and temporal scales. We use a combination of empirical field studies, statistical modeling, and spatial data science to quantify carbon cycling processes in forests. We work across a variety of forest types, but focus especially on mangroves, plantation forests, and temperate coniferous forests of the Pacific Northwest.
 
+</div>
 
 #### Managing forest carbon under global change
 
