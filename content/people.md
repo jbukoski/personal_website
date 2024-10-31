@@ -38,7 +38,7 @@ slug: people
 
 </br>
 
-<strong> Lynn Riley </strong> is Lead Scientist for the [American Forest Foundation](https://www.forestfoundation.org/) and a master's student at Oregon State University, pursuing a degree in natural resources. Lynn has worked on implementing Natural Climate Solutions in the US and improving forest carbon accounting methods since 2019, and is interested in the intersection of the highest-quality applied science methods with what works for landowners of all types. She holds her undergraduate degree in Geography from Virginia Tech. 
+<strong> Lynn Riley </strong> is Lead Scientist for the [American Forest Foundation](https://www.forestfoundation.org/) and a master's student at Oregon State University, pursuing a degree in natural resources. Lynn has worked on implementing Natural Climate Solutions in the US and improving forest carbon accounting methods since 2019, and is interested in the intersection of the highest-quality applied science methods with what works for landowners of all types. She holds an undergraduate degree in Geography from Virginia Tech. 
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
