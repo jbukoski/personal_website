@@ -16,7 +16,7 @@ slug: people
 
 <strong> Jacob Bukoski </strong> is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University's [Department of Forest Ecosystems & Society](https://directory.forestry.oregonstate.edu/people/bukoski-jacob). Prior to Oregon State University, he was a postdoctoral associate at Conservation International's Moore Center for Science. Jacob completed his Ph.D. at the University of California, Berkeley. In addition to his position at Oregon State University, Jacob is a Science Advisor at [Carbon Direct](https://www.carbon-direct.com/people/dr-jacob-bukoski) and an interim Editor in Chief at the [Journal of Sustainable Forestry](https://www.tandfonline.com/toc/wjsf20/current).
 
-<div style="font-size: 115%; padding-top:1%; padding-bottom:1%" align="left">
+<div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
   <a href=https://github.com/jbukoski><i class="fab fa-github fa-lg fa-fw"></i></a> | 
   <a href=https://twitter.com/JacobBukoski><i class="fab fa-twitter fa-lg fa-fw"></i></a> | 
@@ -29,3 +29,23 @@ slug: people
 <div> Email: jacob.bukoski [at] oregonstate.edu </div>
 
 ---
+
+<div>
+  <img class="headshot" src="./lynn.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
+</div>
+
+</br>
+
+<strong> Lynn Riley </strong> is Lead Scientist for the [American Forest Foundation](https://www.forestfoundation.org/) and a master's student at Oregon State University, pursuing a degree in natural resources. Lynn has worked on implementing Natural Climate Solutions in the US and improving forest carbon accounting methods since 2019, and is interested in the intersection of the highest-quality applied science methods with what works for landowners of all types. She holds her undergraduate degree in Geography from Virginia Tech. 
+
+<div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
+
+</div>
+
+<div> Email: lynn.riley [at] oregonstate.edu </div>
+
+---
+
+
+
+
