@@ -44,10 +44,30 @@ slug: people
 
 </div>
 
-<div> Email: lynn.riley [at] oregonstate.edu </div>
+<div> Email: rileyly [at] oregonstate.edu </div>
 
 ---
 
+---
 
+</br>
+
+<div>
+  <img class="headshot" src="./brenda.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
+</div>
+
+</br>
+
+<strong> Brenda Schuster </strong>  has 25 years of experience in sustainable development across Africa and Asia. She is currently the Director of Strategy and Programs at [WildLandscapes International](https://wildlandscapes.org/), working to expand connected landscapes for wildlife conservation and carbon sequestration. Brenda holds an MA in International Studies from the University of Washington (Seattle) and is currently pursuing a Master of Natural Resources at Oregon State University, where her research focuses on carbon accounting in dryland forests.
+
+<div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
+
+<a href=linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
+
+</div>
+
+<div> Email: schusteb [at] oregonstate.edu </div>
+
+---
 
 
