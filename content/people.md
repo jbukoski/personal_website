@@ -48,8 +48,6 @@ slug: people
 
 ---
 
----
-
 </br>
 
 <div>
