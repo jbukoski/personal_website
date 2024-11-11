@@ -49,7 +49,7 @@ slug: people
 <div> Email: rileyly [at] oregonstate.edu </div>
 
 ---
-
+</br>
 </br>
 
 <div>
