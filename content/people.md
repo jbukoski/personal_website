@@ -42,13 +42,13 @@ slug: people
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
+  <a href=https://www.linkedin.com/in/lynn-riley-b1071667/><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
+
 </div>
 
 <div> Email: rileyly [at] oregonstate.edu </div>
 
 ---
-
-</br>
 
 </br>
 
@@ -62,7 +62,7 @@ slug: people
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
-  <a href=linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
+  <a href=https://linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
 
 </div>
 
