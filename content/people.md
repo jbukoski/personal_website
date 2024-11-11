@@ -50,6 +50,8 @@ slug: people
 
 </br>
 
+</br>
+
 <div>
   <img class="headshot" src="./brenda.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
 </div>
@@ -60,7 +62,7 @@ slug: people
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
-<a href=linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
+  <a href=linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
 
 </div>
 
