@@ -27,5 +27,5 @@ html {
 
 a:before,
 a:after {
-  background: #DC4405;
+  background: #DC4405 !important;
 }
