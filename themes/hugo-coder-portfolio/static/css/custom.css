@@ -2,3 +2,9 @@
   position: relative;
   top: 6px;  /* Adjust up/down */
 }
+
+.site-title,
+.navbar-brand,
+.navbar-item span {
+  font-family: 'Montserrat', sans-serif;
+}
