@@ -8,7 +8,7 @@ For a full list of our publications and other research-related products, please 
 
 #### Peer-Reviewed Articles
 
-**[23]** Slobodian, L., BUelow, C., Baker, S., Alvarez, S., WOod, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.**, Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. *Cell Reports Sustainability*. 100430. DOI: [10.1016/j/crsus.2025.100430](https://doi.org/10.1016/j.crsus.2025.100430)
+**[23]** Slobodian, L., Buelow, C., Baker, S., Alvarez, S., Wood, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.**, Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. *Cell Reports Sustainability*. 100430. DOI: [10.1016/j/crsus.2025.100430](https://doi.org/10.1016/j.crsus.2025.100430)
 
 **[22]** Betts, M.G., Franklin, J.F., **Bukoski, J.J.**, Burivalova, Z., Conklin, E.E. DeLuca, T.H., Fitch, A., Himes, A., Panwar, R., Sachs, H., Wiebe, R.A., Cerullo, G. 2025. Benefits of oshoring forestry rely on science. [Letter to Editor] *Science*. 100430. DOI: [10.1126/science.adx4908](https://www.science.org/doi/10.1126/science.adx4908)
 
@@ -57,6 +57,10 @@ For a full list of our publications and other research-related products, please 
 
 #### In Review & In Revision
 
+Betts, M.G., Segura, C., Lajtha, K., Bell, D.M., **Bukoski, J.J.**, Collings, J.A., Conklin, E.E., Digregorio, L., Fitch, A.A., Jones, J.A., Nelson, M.P., O'connell, K.B., Penaluna, B., Pett-Ridge, J.C., Sullivan, P.L., Archibeque, B., Arismendi, I., Ashkenas, L.R., Busby, P.E., Bush, S.A., Cerullo, G., Daly, C., Diez, J.M., Doolittle, C.J., Epps, C.W., Ferrari, N.C., Friesen, C.A., Gray, E.R., Hayes, R.A., Heflin, L., Hirsch, W.R., Hoke, K.L., Holz, A., Krause, J.A., Krawchuk, M.A., Lamanna, J.A., Latorre-Beltran, T., Leismester, D.B., Maffia, M.M., Mayedo, A.L., Neat, A., Ortega, J., Perakis, S.S., Perry, Z.D., Pignotti, G.W., Powers, M.D., Reilly, M.J., Remillard, S.M., Schulze, M.D., Sutton, M., Still, C.J., Storksdieck, M., Swanson, F.J., Swartz, A.G., Takver, X., Vale, A.J., Wang, Y., Weldy, M.J., Warren, D.R. Ecosystem resiliency to fire in temperate rainforest: a priori hypotheses from long-term data. *In review at Ecological Monographs.* [preprint](https://www.authorea.com/doi/full/10.22541/au.175096308.81834732/v1)
+
+Dickinson, M.B., Birch, J.D., **Bukoski, J.J.**, Butz, R.J., Cox, E., Ewell, C., Flaherty, L., Hanan, E., Miesel, J Nash, B.E., Seyfried, G.S., Vossmer, M., Wang, Y., Williams, R. Effects of low-intensity wildfire in old-growth Douglas fir/western hemlock forest. *In review at Fire Ecology.*
+
 Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., **Bukoski, J.J.**, Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. *In review at PNAS*
 
 **Riley, L.**, Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and **Bukoski, J.J.** Accounting for albedo in carbon market protocols. *Submitted to Nature Communications*
@@ -66,6 +70,10 @@ Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., **Bukoski, J.J.**, Busch, J.
 ------
 
 #### Technical Documents
+
+Green, C., Thomas, F., **Bukoski, J.J.**, Lovelock, C., Sasmito, S. 2025. GFOI Guidance: Advice on the inclusion of blue carbon in greenhouse gas inventories and relationship with REDD+ reporting. Global Forest Observations Initiative. United Nations Food and Agriculture Organization. Rome, Italy. [PDF](https://www.reddcompass.org/mgd/resources/GFOI_BlueCarbon_Guidance_20250201.pdf)
+
+**Bukoski, J.J.** Carbon sequestration potential from afforestation and reforestation in Oregon. (2025). Oregon’s 7th Climate Assessment. Corvallis, OR. [PDF](https://www.oregon.gov/odf/forestbenefits/documents/oregon-climate-assessment.pdf)
 
 Wolosin, M., Hole, D., Griscom, B., Rockstrom, J., Barrera, L., Beringer, T., **Bukoski, J.J.**, Comstock, M., Goldstein, A., Hepp, J., Kasprzyk, K., Loken, B., Munshi, E., Noon, M., Roehrdanz, P., Roopsind, A., Shrestha, S., Sprenkle-Hyppolite, S., Tabor, K., Toirai, E., and Wood, M. 2022. Exponential roadmap for natural climate solutions. *Conservation International.* Arlington, VA. [PDF](https://www.conservation.org/roadmap-pdf)
 
