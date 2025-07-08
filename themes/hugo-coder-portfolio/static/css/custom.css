@@ -3,6 +3,14 @@
   top: 6px;  /* Adjust up/down */
 }
 
+a.navigation-title {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  color: inherit !important;
+}
+
+
 .navigation-title * {
   text-decoration: none !important;
   border-bottom: none !important;
