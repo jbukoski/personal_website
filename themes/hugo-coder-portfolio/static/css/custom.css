@@ -4,11 +4,9 @@
 }
 
 .navigation-title,
-.navigation-title:hover,
-.navigation-title:focus,
-.navigation-title:active {
+.navigation-title * {
   text-decoration: none !important;
-  background: none !important;
+  border-bottom: none !important;
   box-shadow: none !important;
   color: inherit !important;
 }
