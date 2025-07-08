@@ -18,7 +18,7 @@ pygmentsUseClasses = true
     author = "Jacob J. Bukoski, Ph.D."
     description = "Jacob Bukoski is an assistant professor in the College of Forestry at Oregon State University."
     keywords = "Jacob Bukoski, Jacob J. Bukoski"
-    title = "<img src='/img/logo.jpg' style='height=10px;'> Bukoski Lab"
+    title = "Bukoski Lab"
 
     hideCredits = true
     hideCopyright = true
@@ -33,7 +33,7 @@ pygmentsUseClasses = true
     enableLineShare = true
     enableLinkedInShare = true
 
-    thumbnail = "./images/bukoski_tn.jpg"
+    thumbnail = ""
 
     # Custom CSS
     custom_css = []
