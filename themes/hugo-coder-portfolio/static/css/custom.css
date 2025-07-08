@@ -3,7 +3,6 @@
   top: 6px;  /* Adjust up/down */
 }
 
-.navigation-title,
 .navigation-title * {
   text-decoration: none !important;
   border-bottom: none !important;
