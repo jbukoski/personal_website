@@ -24,3 +24,8 @@ navigation-title::before,
 html {
   overflow-y: scroll;
 }
+
+nav a:hover {
+  text-decoration: underline;
+  text-decoration-color: #DC4405; /* replace with your desired color */
+}
