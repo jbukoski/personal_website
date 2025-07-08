@@ -9,10 +9,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.navigation-title,
-.navigation-title:hover,
-.navigation-title:focus,
-.navigation-title:active {
+a.navigation-title,
+a.navigation-title:hover,
+a.navigation-title:focus,
+a.navigation-title:active {
   text-decoration: none !important;
   background: none !important;
   box-shadow: none !important;
