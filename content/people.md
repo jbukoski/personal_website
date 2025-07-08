@@ -45,7 +45,7 @@ slug: people
 <div> Email: petercoh [at] oregonstate.edu </div>
 
 ---
-
+</br>
 </br>
 
 <div>
