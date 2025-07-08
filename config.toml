@@ -18,7 +18,7 @@ pygmentsUseClasses = true
     author = "Jacob J. Bukoski, Ph.D."
     description = "Jacob Bukoski is an assistant professor in the College of Forestry at Oregon State University."
     keywords = "Jacob Bukoski, Jacob J. Bukoski"
-    title = "Bukoski Lab"
+    title = "BUKOSKI LAB"
 
     hideCredits = true
     hideCopyright = true
@@ -49,7 +49,7 @@ pygmentsUseClasses = true
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Bukoski Lab"
+        title = "BUKOSKI LAB"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
