@@ -25,6 +25,7 @@ html {
   overflow-y: scroll;
 }
 
-a:hover {
-  text-decoration-color: #DC4405; /* replace with your desired color */
+a:before,
+a:after {
+  background: #DC4405;
 }
