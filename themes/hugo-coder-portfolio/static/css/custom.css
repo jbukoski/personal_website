@@ -8,3 +8,17 @@
 .navbar-item span {
   font-family: 'Montserrat', sans-serif;
 }
+
+.navigation-title {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.navigation-title:hover,
+.navigation-title:focus,
+.navigation-title:active {
+  text-decoration: none !important;
+  color: inherit;
+  box-shadow: none;
+  outline: none;
+}
