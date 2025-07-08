@@ -63,7 +63,7 @@ Dickinson, M.B., Birch, J.D., **Bukoski, J.J.**, Butz, R.J., Cox, E., Ewell, C.,
 
 Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., **Bukoski, J.J.**, Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. *In review at PNAS*
 
-**Riley, L.**, Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and **Bukoski, J.J.** Accounting for albedo in carbon market protocols. *Submitted to Nature Communications*
+**Riley, L.**, Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and **Bukoski, J.J.** Accounting for albedo in carbon market protocols. *Submitted to Nature Communications* [preprint](https://www.researchsquare.com/article/rs-5248564/v1)
 
 </br>
 
