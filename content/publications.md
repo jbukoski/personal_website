@@ -5,9 +5,6 @@ slug: publications
 
 *For a full list of our publications and other research-related products, please see [here](https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao).*
 
-here is a test to hardchange files
-
-
 #### Peer-Reviewed Articles
 
 **[23]** Slobodian, L., Buelow, C., Baker, S., Alvarez, S., Wood, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., Bukoski, J.J., Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. ***Cell Reports Sustainability***. 100430. DOI: [10.1016/j/crsus.2025.100430](https://doi.org/10.1016/j.crsus.2025.100430)
