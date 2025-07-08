@@ -30,6 +30,22 @@ slug: people
 
 ---
 
+<div>
+  <img class="headshot" src="./hayley.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
+</div>
+
+</br>
+
+<strong> Dr. Hayley Peter-Contesse </strong> is a Postdoctoral Scholar in Oregon State University's Department of Forest Ecosystems and Society. Hayley previously worked as a Junior (Postdoctoral) Researcher at University of Hawaiʻi at Mānoa and earned her PhD in Soil Science and Graduate Certificate in GIS from Oregon State University. She uses GIS, remote sensing, and machine learning techniques to study and map ecosystem carbon cycling and carbon pools in temperate and tropical systems.
+
+<div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
+
+</div>
+
+<div> Email: petercoh [at] oregonstate.edu </div>
+
+---
+
 </br>
 
 <div>
