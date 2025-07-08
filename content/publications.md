@@ -3,7 +3,7 @@ description: publications
 slug: publications
 ---
 
-For a full list of our publications and other research-related products, please see [here](https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao).
+*For a full list of our publications and other research-related products, please see [here](https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao).*
 
 
 #### Peer-Reviewed Articles
@@ -51,7 +51,7 @@ For a full list of our publications and other research-related products, please 
 
 **[3]** Bukoski J.J. Chaiwiwatworakul, P., and Gheewala, S.H. 2017. “The life cycle assessment of an energy-positive peri-urban residence in a tropical regime.” ***Journal of Industrial Ecology*** 21(5): 1115–27. DOI: [10.1111/jiec.12494](https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12494).
 
-**[2]** Bukoski, J.J., Chaiwiwatworakul, P., and Gheewala, S.H. 2016. Energy savings versus costs of implementation for demand side management strategies within an energy-efficient tropical residence. ***Energy Efficiency*** 9(2): 473–85. DOI: [10.1007/s12053-015-9374-y](https://link.springer.com/article/10.1007/s12053-015-9374-y).
+**[2]** Bukoski, J.J., Chaiwiwatworakul, P., and Gheewala, S.H. 2016. Energy savings versus costs of implementation for demand side management strategies in an energy-efficient tropical residence. ***Energy Efficiency*** 9(2): 473–85. DOI: [10.1007/s12053-015-9374-y](https://link.springer.com/article/10.1007/s12053-015-9374-y).
 
 **[1]** Bukoski, J., Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. ***Energy and Buildings*** 72: 150–56. DOI: [10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
 
@@ -63,7 +63,7 @@ Dickinson, M.B., Birch, J.D., Bukoski, J.J., Butz, R.J., Cox, E., Ewell, C., Fla
 
 Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., Bukoski, J.J., Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. *In review at PNAS*
 
-**Riley, L.**, Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. Accounting for albedo in carbon market protocols. *Submitted to Nature Communications* [preprint](https://www.researchsquare.com/article/rs-5248564/v1)
+Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. Accounting for albedo in carbon market protocols. *Submitted to Nature Communications* [preprint](https://www.researchsquare.com/article/rs-5248564/v1)
 
 </br>
 
@@ -71,18 +71,18 @@ Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., Bukoski, J.J., Busch, J., El
 
 #### Technical Documents
 
-Green, C., Thomas, F., Bukoski, J.J., Lovelock, C., Sasmito, S. 2025. GFOI Guidance: Advice on the inclusion of blue carbon in greenhouse gas inventories and relationship with REDD+ reporting. Global Forest Observations Initiative. *United Nations Food and Agriculture Organization*. Rome, Italy. [PDF](https://www.reddcompass.org/mgd/resources/GFOI_BlueCarbon_Guidance_20250201.pdf)
+Green, C., Thomas, F., Bukoski, J.J., Lovelock, C., Sasmito, S. 2025. **GFOI Guidance: Advice on the inclusion of blue carbon in greenhouse gas inventories and relationship with REDD+ reporting. Global Forest Observations Initiative.** *United Nations Food and Agriculture Organization*. Rome, Italy. [PDF](https://www.reddcompass.org/mgd/resources/GFOI_BlueCarbon_Guidance_20250201.pdf)
 
-Bukoski, J.J. Carbon sequestration potential from afforestation and reforestation in Oregon. (2025). *Oregon’s 7th Climate Assessment*. Corvallis, OR. [PDF](https://www.oregon.gov/odf/forestbenefits/documents/oregon-climate-assessment.pdf)
+Bukoski, J.J. **Carbon sequestration potential from afforestation and reforestation in Oregon.** (2025). *Oregon’s 7th Climate Assessment*. Corvallis, OR. [PDF](https://www.oregon.gov/odf/forestbenefits/documents/oregon-climate-assessment.pdf)
 
-Wolosin, M., Hole, D., Griscom, B., Rockstrom, J., Barrera, L., Beringer, T., Bukoski, J.J., Comstock, M., Goldstein, A., Hepp, J., Kasprzyk, K., Loken, B., Munshi, E., Noon, M., Roehrdanz, P., Roopsind, A., Shrestha, S., Sprenkle-Hyppolite, S., Tabor, K., Toirai, E., and Wood, M. 2022. Exponential roadmap for natural climate solutions. *Conservation International.* Arlington, VA. [PDF](https://www.conservation.org/roadmap-pdf)
+Wolosin, M., Hole, D., Griscom, B., Rockstrom, J., Barrera, L., Beringer, T., Bukoski, J.J., Comstock, M., Goldstein, A., Hepp, J., Kasprzyk, K., Loken, B., Munshi, E., Noon, M., Roehrdanz, P., Roopsind, A., Shrestha, S., Sprenkle-Hyppolite, S., Tabor, K., Toirai, E., and Wood, M. 2022. **Exponential roadmap for natural climate solutions.** *Conservation International.* Arlington, VA. [PDF](https://www.conservation.org/roadmap-pdf)
 
-Wilson, S.J., Metzel, R., Harrigan, E., Sprenkle-Hyppolite, S., Begeladze,S., Bukoski, J.J., Donatti, C., Hillman, I. 2022. Where to restore? Using spatial data to inform restoration prioritization for climate, biodiversity, and community benefits. *Conservation International*.
+Wilson, S.J., Metzel, R., Harrigan, E., Sprenkle-Hyppolite, S., Begeladze,S., Bukoski, J.J., Donatti, C., Hillman, I. 2022. **Where to restore? Using spatial data to inform restoration prioritization for climate, biodiversity, and community benefits.** *Conservation International*.
 
-Bukoski, J.J., and Holland, T. 2019. Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report. Report submitted to: The World Bank & the Department of Forestry of the Republic of Vanuatu. *Climate Law & Policy*.
+Bukoski, J.J., and Holland, T. 2019. **Strategic environmental and social assessment (SESA) for reducing emissions from deforestation and forest degradation (REDD+) in Vanuatu: Scoping report.** Report submitted to: The World Bank & the Department of Forestry of the Republic of Vanuatu. *Climate Law & Policy*.
 
-Broadhead, J.S., Bukoski, J.J., Beresnev, N. 2016. Mangrove carbon stock estimator and monitoring guide. *United Nations Food and Agricultural Organization, Regional Office for the Asia Pacific (UN FAO-RAP), United States Agency for International Development, Lowering Emissions in Asia's Forests (USAID LEAF) & International Union for the Conservation of Nature (IUCN)*.
+Broadhead, J.S., Bukoski, J.J., Beresnev, N. 2016. **Mangrove carbon stock estimator and monitoring guide**. *United Nations Food and Agricultural Organization, Regional Office for the Asia Pacific (UN FAO-RAP), United States Agency for International Development, Lowering Emissions in Asia's Forests (USAID LEAF) & International Union for the Conservation of Nature (IUCN)*.
 
-Saah, D., Manley, P., Chen, Q., O’Neil-Dunne, J., White, A., Moody, T., Freed, T., Bukoski, J., Moghaddas, J. 2016. Monitoring desired conditions for vegetation and wildlife habitat: An independent test of proposed indicators for monitoring vegetation in the Lake Tahoe Basin. *US Forest Service Pacific Southwest Research Station*. SNPLMA Round 10 Science Project. 73 pp.
+Saah, D., Manley, P., Chen, Q., O’Neil-Dunne, J., White, A., Moody, T., Freed, T., Bukoski, J., Moghaddas, J. 2016. **Monitoring desired conditions for vegetation and wildlife habitat: An independent test of proposed indicators for monitoring vegetation in the Lake Tahoe Basin.** *US Forest Service Pacific Southwest Research Station*. SNPLMA Round 10 Science Project. 73 pp.
 
 ------
