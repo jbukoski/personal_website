@@ -21,3 +21,6 @@ navigation-title::before,
   display: none !important;
 }
 
+html {
+  overflow-y: scroll;
+}
