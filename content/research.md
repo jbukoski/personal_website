@@ -7,7 +7,7 @@ We research the science, policy, and management of forest-based climate solution
 
 ---
 
-<h4 style: font-weight: bold; margin-top: 1em; font-size: 1.2em; color: #DC4405;">Carbon dynamics in forested social-ecological systems</h4>
+<h4 style="font-weight: bold; margin-top: 1em; font-size: 1.2em; color: #DC4405;">Carbon dynamics in forested social-ecological systems</h4>
 
 <img src="./figure.png" width="30%" align="right" style="padding-right: 3%; padding-left: 2%">
 
