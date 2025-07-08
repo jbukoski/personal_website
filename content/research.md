@@ -7,7 +7,7 @@ We research the science, policy, and management of forest-based climate solution
 
 ---
 
-<h4 style="font-weight: bold; margin-top: 1em; font-size: 2em; color: #DC4405;">Carbon dynamics in forested social-ecological systems</h4>
+<h4 style="font-weight: bold; margin-top: 1em; font-size: 1.6em; color: #DC4405;">Carbon dynamics in forested social-ecological systems</h4>
 
 <img src="./figure.png" width="30%" align="right" style="padding-right: 3%; padding-left: 2%">
 
@@ -15,7 +15,7 @@ The social and environmental factors that shape carbon dynamics within and acros
 
 </br>
 
-#### Managing forest carbon under global change
+<h4 style="font-weight: bold; margin-top: 1em; font-size: 1.6em; color: #DC4405;">Managing forest carbon under global change</h4>
 
 <img src="./figure2.jpg" width="30%" align="right" style="padding-right: 3%; padding-left: 2%">
 
@@ -23,7 +23,7 @@ Keeping climate change below 2 degrees Celsius of warming will not only require 
 
 </br>
 
-#### Forest carbon policy, markets, and finance
+<h4 style="font-weight: bold; margin-top: 1em; font-size: 1.6em; color: #DC4405;">Forest carbon policy, markets, and finance</h4>
 
 <img src="./figure3.jpg" width="30%" align="right" style="padding-right: 3%; padding-left: 2%">
 
