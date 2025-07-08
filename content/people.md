@@ -18,11 +18,11 @@ slug: people
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
-  <a href=https://github.com/jbukoski><i class="fab fa-github fa-lg fa-fw"></i></a> | 
-  <a href=https://twitter.com/JacobBukoski><i class="fab fa-twitter fa-lg fa-fw"></i></a> | 
+  <a href=https://github.com/jbukoski><i class="fab fa-github fa-lg fa-fw" style="color:#0A66C2;"></i></a> | 
+  <a href=https://twitter.com/JacobBukoski><i class="fab fa-twitter fa-lg fa-fw" style="color:#0A66C2;"></i></a> | 
   <a href=https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao><i class="ai ai-google-scholar-square fa-lg fa-fw"></i></a> |
   <a href=https://www.researchgate.net/profile/Jacob_Bukoski><i class="ai ai-researchgate "></i></a> | 
-  <a href=https://www.linkedin.com/in/jacob-bukoski-66728535/><i class="fab fa-linkedin"></i></a>
+  <a href=https://www.linkedin.com/in/jacob-bukoski-66728535/><i class="fab fa-linkedin" style="color:#0A66C2;"></i></a>
 
 </div>
 
@@ -58,7 +58,7 @@ slug: people
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
-  <a href=https://www.linkedin.com/in/lynn-riley-b1071667/><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
+  <a href=https://www.linkedin.com/in/lynn-riley-b1071667/><i class="fab fa-linkedin" style="color:#0A66C2;"></i></a>
 
 </div>
 
@@ -78,7 +78,7 @@ slug: people
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
-  <a href=https://linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin fa-lf fa-fw"></i></a>
+  <a href=https://linkedin.com/in/brenda-s-62340b25b><i class="fab fa-linkedin" style="color:#0A66C2;"></i></a>
 
 </div>
 
