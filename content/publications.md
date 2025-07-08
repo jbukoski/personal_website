@@ -3,7 +3,14 @@ description: publications
 slug: publications
 ---
 
+For a full list of our publications and other research-related products, please see [here](https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao).
+
+
 #### Peer-Reviewed Articles
+
+**[23]** Slobodian, L., BUelow, C., Baker, S., Alvarez, S., WOod, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., **Bukoski, J.J.**, Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. *Cell Reports Sustainability*. 100430. DOI: [10.1016/j/crsus.2025.100430](https://doi.org/10.1016/j.crsus.2025.100430)
+
+**[22]** Betts, M.G., Franklin, J.F., **Bukoski, J.J.**, Burivalova, Z., Conklin, E.E. DeLuca, T.H., Fitch, A., Himes, A., Panwar, R., Sachs, H., Wiebe, R.A., Cerullo, G. 2025. Benefits of oshoring forestry rely on science. [Letter to Editor] *Science*. 100430. DOI: [10.1126/science.adx4908](https://www.science.org/doi/10.1126/science.adx4908)
 
 **[21]** **Bukoski, J.J.**, Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. 2024. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. *Conservation Science & Practice*. e13193. DOI: [10.1111/csp2.13193](https://doi.org/10.1111/csp2.13193)
 
