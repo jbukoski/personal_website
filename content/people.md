@@ -13,7 +13,7 @@ slug: people
     flex-wrap: wrap;
     align-items: flex-start;
     gap: 1.5em;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
   }
 
   .person-image {
@@ -21,7 +21,7 @@ slug: people
   }
 
   .person-image img {
-    width: 100%;
+    width: 90%;
     height: auto;
     border-radius: 8px;
   }
