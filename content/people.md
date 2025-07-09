@@ -33,6 +33,7 @@ slug: people
 ---
 </br>
 </br>
+</br>
 
 <div>
   <img class="headshot" src="./hayley.jpg" width="270" align="left" style = "padding-bottom:10%; padding-top:2%">
