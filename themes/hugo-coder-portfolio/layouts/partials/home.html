@@ -15,8 +15,8 @@
 <section class="container centered">
   <div class="about">
     
-    <!-- 🔍 DEBUG: Print raw photo data -->
-    <pre>{{ jsonify .Site.Data.photos | safeHTML }}</pre>
+    <!--debug block-->
+    <!-- <pre>{{ jsonify .Site.Data.photos | safeHTML }}</pre> -->
 
     <!-- Swiper styles -->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
@@ -41,21 +41,23 @@
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script>
       document.addEventListener('DOMContentLoaded', function () {
-        new Swiper('.swiper-container', {
-          loop: true,
-          autoplay: {
-            delay: 3000,
-            disableOnInteraction: false
-          },
-          pagination: {
-            el: '.swiper-pagination',
-            clickable: true
-          },
-          navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev'
-          }
-        });
+        if (!window.mySwiper) {  // prevent multiple inits
+          window.mySwiper = new Swiper('.swiper-container', {
+            loop: true,
+            autoplay: {
+              delay: 5000,
+              disableOnInteraction: false
+            },
+            pagination: {
+              el: '.swiper-pagination',
+              clickable: true
+            },
+            navigation: {
+              nextEl: '.swiper-button-next',
+              prevEl: '.swiper-button-prev'
+            }
+          });
+        }
       });
     </script>
 
@@ -73,6 +75,7 @@
         width: 100%;
         height: 100%;
         object-fit: cover;
+        display: block;
       }
 
       .swiper-button-next,
