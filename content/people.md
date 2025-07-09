@@ -39,7 +39,8 @@ slug: people
   }
 
   .person-links a {
-    margin-right: 0.5em;
+    margin-right: 0.25em;
+    margin-left: 0.25em;
     color: #DC4405;
   }
 
