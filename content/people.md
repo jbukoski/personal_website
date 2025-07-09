@@ -83,7 +83,7 @@ slug: people
     <img src="./hayley.jpg" alt="Dr. Hayley Peter-Contesse">
   </div>
   <div class="person-details">
-    <p><strong>Dr. Hayley Peter-Contesse</strong> is a Postdoctoral Scholar in OSU’s Department of Forest Ecosystems and Society. Hayley previously worked as a Junior Researcher at University of Hawaiʻi at Mānoa and earned her PhD in Soil Science and GIS from OSU. She uses GIS, remote sensing, and machine learning to study and map ecosystem carbon cycling in temperate and tropical systems.</p>
+    <p><strong>Dr. Hayley Peter-Contesse</strong> is a Postdoctoral Scholar in OSU’s Department of Forest Ecosystems and Society. Hayley previously worked as a Junior Researcher at University of Hawaiʻi at Mānoa and earned her PhD in Soil Science and GIS from OSU. She uses GIS, remote sensing, and machine learning to study and map ecosystem carbon cycling in temperate and tropical systems. Hayley is currently helping lead a number of studies related to wildfire impacts on forest carbon cycling at the H.J. Andrews Experimental Forest.</p>
     <div>Email: petercoh [at] oregonstate.edu</div>
   </div>
 </div>
@@ -93,7 +93,7 @@ slug: people
     <img src="./lynn.jpg" alt="Lynn Riley">
   </div>
   <div class="person-details">
-    <p><strong>Lynn Riley</strong> is Lead Scientist for the <a href="https://www.forestfoundation.org/" target="_blank">American Forest Foundation</a> and a master's student in natural resources at OSU. She has worked on Natural Climate Solutions and improving forest carbon accounting since 2019. She’s interested in connecting science with landowner practicality. She holds a BA in Geography from Virginia Tech.</p>
+    <p><strong>Lynn Riley</strong> is Lead Scientist for the <a href="https://www.forestfoundation.org/" target="_blank">American Forest Foundation</a> and a master's at OSU. She is enrolled in the online Master's of Natural Resources Program. At OSU, she is exploring the impacts of albedo on reforestation projects on the Voluntary Carbon Market and dynamic baselining effects on Improved Forest Management projects. Lynn has worked on Natural Climate Solutions and improving forest carbon accounting since 2019, and is interested in connecting science with landowner practicality. She holds a BA in Geography from Virginia Tech.</p>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/lynn-riley-b1071667/"><i class="fab fa-linkedin"></i></a>
     </div>
