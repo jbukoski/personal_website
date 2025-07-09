@@ -58,8 +58,7 @@ a:after {
 
 .swiper-container {
   width: 1000px;
-  height: 800px;
-  margin-top: 1.5rem;
+  height: 400px;
   border-radius: 12px;
   overflow: hidden;
 }
