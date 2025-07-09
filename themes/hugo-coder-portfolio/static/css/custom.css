@@ -86,3 +86,13 @@ a:after {
   opacity: 1;
 }
 
+.container {
+  width: 100%; /* or some fixed width */
+  max-width: 1200px; /* optional */
+  margin: 0 auto; /* center */
+}
+
+.about {
+  width: 100%;
+}
+
