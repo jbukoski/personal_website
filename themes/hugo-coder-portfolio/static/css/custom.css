@@ -79,14 +79,14 @@ a:after {
 
 @media (max-width: 768px) {
   .swiper-container {
-    height: 250px;
+    height: 300px;
     width: 100%/* reduce height on smaller screens */
   }
 }
 
 @media (max-width: 480px) {
   .swiper-container {
-    height: 180px;
+    height: 250px;
     width: 100%;
   }
 }
