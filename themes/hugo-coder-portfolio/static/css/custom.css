@@ -23,7 +23,7 @@ img {
 
 @media (max-width: 768px) {
   .navigation-title span {
-    font-size: 120%; /* increase font size by 20% */
+    font-size: 130%; /* increase font size by 20% */
   }
 }
 
