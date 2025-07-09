@@ -14,7 +14,7 @@ slug: people
 
 </br>
 
-<strong style="color:#DC4405;"> Dr. Jacob Bukoski </strong> is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University's [Department of Forest Ecosystems & Society](https://directory.forestry.oregonstate.edu/people/bukoski-jacob). His research broadly focuses on the conservation, management, and restoration of global forests. Prior to Oregon State University, he was a postdoctoral associate at Conservation International's Moore Center for Science. Jacob completed his Ph.D. at the University of California, Berkeley. In addition to his position at Oregon State University, Jacob is a Science Advisor at [Carbon Direct](https://www.carbon-direct.com/people/dr-jacob-bukoski).
+<strong style="color:#000000;"> Dr. Jacob Bukoski </strong> is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University's [Department of Forest Ecosystems & Society](https://directory.forestry.oregonstate.edu/people/bukoski-jacob). His research broadly focuses on the conservation, management, and restoration of global forests. Prior to Oregon State University, he was a postdoctoral associate at Conservation International's Moore Center for Science. Jacob completed his Ph.D. at the University of California, Berkeley. In addition to his position at Oregon State University, Jacob is a Science Advisor at [Carbon Direct](https://www.carbon-direct.com/people/dr-jacob-bukoski).
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
@@ -37,7 +37,7 @@ slug: people
 
 </br>
 
-<strong style="color:#DC4405;"> Dr. Hayley Peter-Contesse </strong> is a Postdoctoral Scholar in Oregon State University's Department of Forest Ecosystems and Society. Hayley previously worked as a Junior (Postdoctoral) Researcher at University of Hawaiʻi at Mānoa and earned her PhD in Soil Science and Graduate Certificate in GIS from Oregon State University. She uses GIS, remote sensing, and machine learning techniques to study and map ecosystem carbon cycling and carbon pools in temperate and tropical systems.
+<strong style="color:#000000;"> Dr. Hayley Peter-Contesse </strong> is a Postdoctoral Scholar in Oregon State University's Department of Forest Ecosystems and Society. Hayley previously worked as a Junior (Postdoctoral) Researcher at University of Hawaiʻi at Mānoa and earned her PhD in Soil Science and Graduate Certificate in GIS from Oregon State University. She uses GIS, remote sensing, and machine learning techniques to study and map ecosystem carbon cycling and carbon pools in temperate and tropical systems.
 
 </br>
 
@@ -53,7 +53,7 @@ slug: people
 
 </br>
 
-<strong style="color:#DC4405;"> Lynn Riley </strong> is Lead Scientist for the [American Forest Foundation](https://www.forestfoundation.org/) and a master's student at Oregon State University, pursuing a degree in natural resources. Lynn has worked on implementing Natural Climate Solutions in the US and improving forest carbon accounting methods since 2019, and is interested in the intersection of the highest-quality applied science methods with what works for landowners of all types. She holds an undergraduate degree in Geography from Virginia Tech. 
+<strong style="color:#000000;"> Lynn Riley </strong> is Lead Scientist for the [American Forest Foundation](https://www.forestfoundation.org/) and a master's student at Oregon State University, pursuing a degree in natural resources. Lynn has worked on implementing Natural Climate Solutions in the US and improving forest carbon accounting methods since 2019, and is interested in the intersection of the highest-quality applied science methods with what works for landowners of all types. She holds an undergraduate degree in Geography from Virginia Tech. 
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
@@ -73,7 +73,7 @@ slug: people
 
 </br>
 
-<strong style="color:#DC4405;"> Brenda Schuster </strong>  has 25 years of experience in sustainable development across Africa and Asia. She is currently the Director of Strategy and Programs at [WildLandscapes International](https://wildlandscapes.org/), working to expand connected landscapes for wildlife conservation and carbon sequestration. Brenda holds an MA in International Studies from the University of Washington (Seattle) and is currently pursuing a Master of Natural Resources at Oregon State University, where her research focuses on carbon accounting in dryland forests.
+<strong style="color:#000000;"> Brenda Schuster </strong>  has 25 years of experience in sustainable development across Africa and Asia. She is currently the Director of Strategy and Programs at [WildLandscapes International](https://wildlandscapes.org/), working to expand connected landscapes for wildlife conservation and carbon sequestration. Brenda holds an MA in International Studies from the University of Washington (Seattle) and is currently pursuing a Master of Natural Resources at Oregon State University, where her research focuses on carbon accounting in dryland forests.
 
 <div style="font-size: 115%; padding-top:1%; padding-bottom:2%" align="left">
 
