@@ -20,6 +20,8 @@
     <!-- Swiper styles -->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
+
+
     <!-- Swiper container -->
     <div class="swiper-container">
       <div class="swiper-wrapper">
@@ -28,12 +30,14 @@
             <img src="{{ .url }}" alt="{{ .alt }}">
           </div>
         {{ end }}
-      </div>
-
-      <!-- Navigation and pagination -->
+        
+             <!-- Navigation and pagination -->
       <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
       <div class="swiper-pagination"></div>
+      </div>
+
+ 
     </div>
 
     <!-- Swiper script -->
@@ -93,7 +97,7 @@
       });
     </script>
 
-      <div class="home text">
+      <div class="home text" style="text-align: left">
         </br>
         <h4> Welcome to the Bukoski Lab at Oregon State University!</h4>
         <strong style="color:#DC4405;"> We research forest-based climate solutions - the projects, policies, and programs that seek to mitigate climate change through improved stewardship of forest ecosystems.</strong>
