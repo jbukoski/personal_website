@@ -1,5 +1,4 @@
 ---
-title: People
 description: Meet our team
 slug: people
 ---
