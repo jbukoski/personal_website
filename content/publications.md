@@ -3,6 +3,8 @@ description: publications
 slug: publications
 ---
 
+</br>
+
 *For a full list of our publications and other research-related products, please see [here](https://scholar.google.com/citations?user=gTARLqUAAAAJ&hl=en&oi=ao).*
 
 #### Peer-Reviewed Articles

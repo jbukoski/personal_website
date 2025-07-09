@@ -2,6 +2,8 @@
 description: "opportunities"
 ---
 
+</br>
+
 #### Contact guidelines
 
 I encourage enthusiastic undergraduates and prospective graduate students to reach out. However, I receive a large number of emails and although I do my best to respond to all, your email may slip through the cracks. To help me get back to you in an efficient manner, please do the following:
