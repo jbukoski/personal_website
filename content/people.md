@@ -60,6 +60,8 @@ slug: people
   }
 </style>
 
+<br><br>
+
 <div class="person-container">
   <div class="person-image">
     <img src="./headshotNew.png" alt="Dr. Jacob Bukoski">
