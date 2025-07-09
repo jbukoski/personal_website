@@ -69,6 +69,7 @@ a:after {
   height: 100%;
   object-fit: cover;
   display: block;
+  border: 1px solid red;
 }
 
 .swiper-button-next,
