@@ -1,4 +1,3 @@
-
 <!--
 <!DOCTYPE html>
 <section class="container centered">
@@ -12,7 +11,7 @@
 </section>
 -->
 
-<section class="container centered">
+<section class="container centered home-swiper-wrapper">
   <div class="about">
     
     <!--debug block-->
@@ -34,65 +33,4 @@
       <!-- Navigation and pagination -->
       <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
-    </div>
-
-    <!-- Swiper script -->
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-      document.addEventListener('DOMContentLoaded', function () {
-        const container = document.querySelector('.swiper-container');
-        const images = container.querySelectorAll('img');
-      
-        let loadedImages = 0;
-        images.forEach(img => {
-          if (img.complete) {
-            loadedImages++;
-          } else {
-            img.addEventListener('load', () => {
-              loadedImages++;
-              if (loadedImages === images.length) {
-                initSwiper();
-              }
-            });
-            img.addEventListener('error', () => {
-              loadedImages++;  // count errors to avoid hanging
-              if (loadedImages === images.length) {
-                initSwiper();
-              }
-            });
-          }
-        });
-      
-        // If all images are already loaded
-        if (loadedImages === images.length) {
-          initSwiper();
-        }
-      
-        function initSwiper() {
-          if (!window.mySwiper) {
-            window.mySwiper = new Swiper('.swiper-container', {
-              loop: true,
-              autoplay: { delay: 5000, disableOnInteraction: false },
-              pagination: { el: '.swiper-pagination', clickable: true },
-              navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' }
-            });
-          }
-        }
-      });
-    </script>
-    
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const nav = document.querySelector(".navigation");
-        const content = document.querySelector(".container");
-    
-        if (nav && content) {
-          const navHeight = nav.offsetHeight;
-          content.style.paddingTop = navHeight + "px";
-        }
-      });
-    </script>
-
-  </div>
-</section>
+      <div class="swiper-pagination"></
