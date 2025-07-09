@@ -31,7 +31,7 @@ slug: people
 <div> Email: jacob.bukoski [at] oregonstate.edu </div>
 
 ---
-
+</br>
 </br>
 
 <div>
@@ -67,6 +67,7 @@ slug: people
 <div> Email: rileyly [at] oregonstate.edu </div>
 
 ---
+</br>
 </br>
 </br>
 
