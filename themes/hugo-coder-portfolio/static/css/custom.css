@@ -21,6 +21,12 @@ img {
   top: 6px;  /* Adjust up/down */
 }
 
+@media (max-width: 768px) {
+  .navigation-title span {
+    font-size: 120%; /* increase font size by 20% */
+  }
+}
+
 .navigation-title,
 .navigation-title * {
   text-decoration: none !important;
