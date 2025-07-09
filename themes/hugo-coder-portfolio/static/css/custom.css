@@ -29,3 +29,8 @@ a:before,
 a:after {
   background: #DC4405 !important;
 }
+
+.bibliography p {
+  margin-left: 2.5em;    /* indent all lines */
+  text-indent: -2.5em;   /* pull first line back */
+}
