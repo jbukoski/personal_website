@@ -3,6 +3,8 @@ description: research
 slug: research
 ---
 
+</br>
+
 We research the science, policy, and management of forest-based climate solutions, or the stewardship of forests to mitigate climate change. We are an interdisciplinary and collaborative research group and many of our projects are highly applied in nature. We currently have three major research themes:
 
 ---
