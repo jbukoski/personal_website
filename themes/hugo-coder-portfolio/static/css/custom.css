@@ -88,12 +88,13 @@ a:after {
 }
 
 .container {
+  padding-top: 6rem;
   width: 100%; /* or some fixed width */
-  /*max-width: 1200px; */
   margin: 0 auto; /* center */
 }
 
 .about {
   width: 100%;
+  margin: 0;
 }
 
