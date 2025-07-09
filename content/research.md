@@ -35,6 +35,12 @@ slug: research
     font-size: 1.6em;
     color: #DC4405;
     margin-top: 0;
+    line-height: 1.4; /* looser line height */
+  }
+
+  /* Optional: add some margin below headings for spacing */
+  .research-heading + p {
+    margin-top: 0.8em;
   }
 </style>
 
