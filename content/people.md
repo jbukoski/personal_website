@@ -14,7 +14,7 @@ slug: people
     flex-wrap: wrap;
     align-items: flex-start;
     gap: 1.5em;
-    margin-bottom: 3em;
+    margin-bottom: 0.5em;
   }
 
   .person-image {
@@ -51,8 +51,8 @@ slug: people
     <p><strong>Dr. Jacob Bukoski</strong> is an Assistant Professor and the Director of the Forests and Climate Change graduate certificate at Oregon State University's <a href="https://directory.forestry.oregonstate.edu/people/bukoski-jacob" target="_blank">Department of Forest Ecosystems & Society</a>. His research broadly focuses on the conservation, management, and restoration of global forests. Prior to Oregon State University, he was a postdoctoral associate at Conservation International's Moore Center for Science. Jacob completed his Ph.D. at the University of California, Berkeley. In addition to his position at Oregon State University, Jacob is a Science Advisor at <a href="https://www.carbon-direct.com/people/dr-jacob-bukoski" target="_blank">Carbon Direct</a>.</p>
     <div class="person-links">
       <a href="https://github.com/jbukoski"><i class="fab fa-github fa-lg"></i></a>
-      <a href="https://scholar.google.com/citations?user=gTARLqUAAAAJ"><i class="ai ai-google-scholar-square fa-lg"></i></a>
-      <a href="https://www.researchgate.net/profile/Jacob_Bukoski"><i class="ai ai-researchgate"></i></a>
+      <a href="https://scholar.google.com/citations?user=gTARLqUAAAAJ"><i class="ai ai-google-scholar-square fa-lg" style="color: #DC4405"></i></a>
+      <a href="https://www.researchgate.net/profile/Jacob_Bukoski"><i class="ai ai-researchgate" style="color: #DC4405"></i></a>
       <a href="https://www.linkedin.com/in/jacob-bukoski-66728535/"><i class="fab fa-linkedin"></i></a>
     </div>
     <div>Email: jacob.bukoski [at] oregonstate.edu</div>

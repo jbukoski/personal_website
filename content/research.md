@@ -10,7 +10,7 @@ We research the science, policy, and management of forest-based climate solution
 <br>
 
 <!-- Research Theme 1 -->
-<div style="padding: 1.5em; margin-bottom: 0.5em; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em;">
+<div style="padding: 0.5em; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em;">
 
   <div style="flex: 1 1 65%;">
     <h4 style="font-weight: bold; font-size: 1.6em; color: #DC4405; margin-top: 0;">Carbon dynamics in forested social-ecological systems</h4>
@@ -24,7 +24,7 @@ We research the science, policy, and management of forest-based climate solution
 </div>
 
 <!-- Research Theme 2 -->
-<div style="padding: 1.5em; margin-bottom: 0.5em; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em;">
+<div style="padding: 0.5em; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em;">
 
   <div style="flex: 1 1 65%;">
     <h4 style="font-weight: bold; font-size: 1.6em; color: #DC4405; margin-top: 0;">Managing forest carbon under global change</h4>
@@ -38,7 +38,7 @@ We research the science, policy, and management of forest-based climate solution
 </div>
 
 <!-- Research Theme 3 -->
-<div style="padding: 1.5em; margin-bottom: 0.5em; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em;">
+<div style="padding: 0.5em; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em;">
 
   <div style="flex: 1 1 65%;">
     <h4 style="font-weight: bold; font-size: 1.6em; color: #DC4405; margin-top: 0;">Forest carbon policy, markets, and finance</h4>
