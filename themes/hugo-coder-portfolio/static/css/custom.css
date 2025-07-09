@@ -88,7 +88,6 @@ a:after {
 }
 
 .container {
-  padding-top: 6rem;
   width: 100%; /* or some fixed width */
   margin: 0 auto; /* center */
 }
@@ -96,5 +95,12 @@ a:after {
 .about {
   width: 100%;
   margin: 0;
+}
+
+.home-swiper-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box; /* so padding works as expected */
+  padding-top: 0; /* start at zero, JS sets actual padding */
 }
 
