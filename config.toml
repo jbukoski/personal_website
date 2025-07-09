@@ -59,29 +59,29 @@ pygmentsUseClasses = true
 
         [languages.en.menu] # It is possible to change the menu too.
 
-            [[languages.en.menu.main]]
-                name = "Home"
-                weight = 1.0
-                url = "home"
+#            [[languages.en.menu.main]]
+#                name = "Home"
+#                weight = 1.0
+#                url = "home"
                 
             [[languages.en.menu.main]]
                 name = "Research"
-                weight = 2.0
+                weight = 1.0
                 url = "research"
                 
             [[languages.en.menu.main]]
                 name = "People"
-                weight = 3.0
+                weight = 2.0
                 url = "people"
                
             [[languages.en.menu.main]]
                 name = "Publications"
-                weight = 4.0
+                weight = 3.0
                 url = "publications"
                
             [[languages.en.menu.main]]
                 name = "Opportunities"
-                weight = 5.0
+                weight = 4.0
                 url = "opportunities"
 
 #            [[languages.en.menu.main]]
