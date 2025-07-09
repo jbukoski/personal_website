@@ -30,7 +30,26 @@ a:after {
   background: #DC4405 !important;
 }
 
+.bibliography {
+  margin-left: 0;
+  padding-left: 0;
+  max-width: 800px; /* optional, for nice formatting */
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
 .bibliography p {
-  margin-left: 2.5em;    /* indent all lines */
-  text-indent: -2.5em;   /* pull first line back */
+  margin: 0 0 1em 0;
+  padding-left: 3.2em; /* space for the number */
+  text-indent: -3.2em; /* hanging indent */
+}
+
+.bibliography .ref-number {
+  color: #DC4405;
+  font-weight: bold;
+  display: inline-block;
+  width: 3em; /* width of the number block */
+  text-align: right;
+  margin-right: 0.2em;
 }
