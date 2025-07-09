@@ -58,7 +58,7 @@ a:after {
 
 .swiper-container {
   width: 100%;
-  height: 400px;
+  height: 800px;
   margin-top: 1.5rem;
   border-radius: 12px;
   overflow: hidden;
@@ -70,6 +70,7 @@ a:after {
   object-fit: contain;
   display: block;
   border: 1px solid red;
+  background: black;
 }
 
 .swiper-button-next,
