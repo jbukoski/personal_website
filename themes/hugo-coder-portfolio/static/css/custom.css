@@ -57,7 +57,7 @@ a:after {
 /* swiper styling */
 
 .swiper-container {
-  width: 100%;
+  width: 1000px;
   height: 800px;
   margin-top: 1.5rem;
   border-radius: 12px;
