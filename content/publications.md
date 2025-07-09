@@ -7,6 +7,8 @@ slug: publications
 
 #### Peer-Reviewed Articles
 
+<div class="bibliography">
+
 **[23]** Slobodian, L., Buelow, C., Baker, S., Alvarez, S., Wood, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., Bukoski, J.J., Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. ***Cell Reports Sustainability***. 100430. DOI: [10.1016/j/crsus.2025.100430](https://doi.org/10.1016/j.crsus.2025.100430)
 
 **[22]** Betts, M.G., Franklin, J.F., Bukoski, J.J., Burivalova, Z., Conklin, E.E., DeLuca, T.H., Fitch, A., Himes, A., Panwar, R., Sachs, H., Wiebe, R.A., Cerullo, G. 2025. Benefits of oshoring forestry rely on science. [*Letter to Editor*] ***Science***. 100430. DOI: [10.1126/science.adx4908](https://www.science.org/doi/10.1126/science.adx4908)
@@ -53,6 +55,8 @@ slug: publications
 **[2]** Bukoski, J.J., Chaiwiwatworakul, P., and Gheewala, S.H. 2016. Energy savings versus costs of implementation for demand side management strategies in an energy-efficient tropical residence. ***Energy Efficiency*** 9(2): 473–85. DOI: [10.1007/s12053-015-9374-y](https://link.springer.com/article/10.1007/s12053-015-9374-y).
 
 **[1]** Bukoski, J., Gheewala, S.H., Mui, A., Smead, M., and Chirarattananon, S. 2014. The life cycle assessment of a solar-assisted absorption chilling system in Bangkok, Thailand. ***Energy and Buildings*** 72: 150–56. DOI: [10.1016/j.enbuild.2013.12.034](https://www.sciencedirect.com/science/article/abs/pii/S0378778813008517).
+
+</div>
 
 #### In Review & In Revision
 
