@@ -42,7 +42,7 @@ a:after {
 .bibliography p {
   margin: 0 0 1em 0;
   padding-left: 3.2em; /* space for the number */
-  text-indent: -3.2em; /* hanging indent */
+  text-indent: -3.5em; /* hanging indent */
 }
 
 .bibliography .ref-number {
