@@ -4,7 +4,6 @@ slug: "home"
 ---
 
 </br>
-</br>
 
 <div>
 
