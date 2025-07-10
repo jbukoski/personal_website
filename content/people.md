@@ -93,6 +93,19 @@ slug: people
 
 <div class="person-container">
   <div class="person-image">
+    <img src="./jamie.jpg" alt="Jamie McMurray">
+  </div>
+  <div class="person-details">
+    <p><strong>Jamie McMurray</strong> is currently pursuing a Master of Science in Forest Ecosystems and Society. She holds double degrees in Business Administration and Sustainability from Oregon State University. Her research interests center on sustainable business, biodiversity, and climate governance, with a focus on how organizations respond to environmental issues and climate policy. Jamie is co-advised by <a href="https://directory.forestry.oregonstate.edu/people/panwar-rajat">Dr. Rajat Panwar</a>.</p>
+    <div class="person-links">
+      <a href="https://www.linkedin.com/in/jamie-mcmurray/"><i class="fab fa-linkedin"></i></a> |
+      <a href="mailto:petercoh@oregonstate.edu"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="person-image">
     <img src="./lynn.jpg" alt="Lynn Riley">
   </div>
   <div class="person-details">
