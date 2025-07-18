@@ -70,6 +70,8 @@ slug: publications
 
 <p><span class="ref-number">[*]</span> Dickinson, M.B., Birch, J.D., Bukoski, J.J., Butz, R.J., Cox, E., Ewell, C., Flaherty, L., Hanan, E., Miesel, J., Nash, B.E., Seyfried, G.S., Vossmer, M., Wang, Y., Williams, R. Effects of low-intensity wildfire in old-growth Douglas fir/western hemlock forest. <em><strong>In review at Fire Ecology</strong></em>.</p> 
 
+<p><span class="ref-number">[*]</span> Garcia, M., Southwick, C., Ushida, G., Checa, E., Acebron, K., Esteban, E., McMahon, S.M., Bukoski, J.J., Huxman, T., Domingues, T., Costa, F., and Albert, L. Hydraulic resilience in Central Amazonian trees confronting historic droughts. Submitted to Science.<em><strong>Submitted to Science</strong></em>.</p>
+
 <p><span class="ref-number">[*]</span> Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., Bukoski, J.J., Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. <em><strong>In review at PNAS</strong></em>.</p> 
 
 <p><span class="ref-number">[*]</span> Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. Accounting for albedo in carbon market protocols. <em><strong>In review at Nature Communications</strong></em>. <a href="https://www.researchsquare.com/article/rs-5248564/v1">PDF</a></p>
