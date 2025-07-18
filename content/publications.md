@@ -12,6 +12,7 @@ slug: publications
 <div class="bibliography">
 
 <p><span class="ref-number">[23]</span> Slobodian, L., Buelow, C., Baker, S., Alvarez, S., Wood, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., Bukoski, J.J., Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. <em><strong>Cell Reports Sustainability</strong></em>. 100430. DOI: <a href="https://doi.org/10.1016/j.crsus.2025.100430">PDF</a></p>
+
 <p><span class="ref-number">[22]</span> Betts, M.G., Franklin, J.F., Bukoski, J.J., Burivalova, Z., Conklin, E.E., DeLuca, T.H., Fitch, A., Himes, A., Panwar, R., Sachs, H., Wiebe, R.A., Cerullo, G. 2025. Benefits of oshoring forestry rely on science. <em><strong>Science</strong></em>. 100430. DOI: <a href="https://www.science.org/doi/10.1126/science.adx4908">PDF</a></p>
 
 <p><span class="ref-number">[21]</span> Bukoski, J.J., Miller, M., Koenig, K., Reineman, D.R., Arroyo, M., Gallegos, D.S., Kittinger, J.N., and Atkinson, S. 2024. Opportunities to expand protection of carbon-dense ecosystems coincide with surf breaks. <em><strong>Conservation Science & Practice</strong></em>. e13193. DOI: <a href="https://doi.org/10.1111/csp2.13193">PDF</a></p>
@@ -70,7 +71,7 @@ slug: publications
 
 <p><span class="ref-number">[*]</span> Dickinson, M.B., Birch, J.D., Bukoski, J.J., Butz, R.J., Cox, E., Ewell, C., Flaherty, L., Hanan, E., Miesel, J., Nash, B.E., Seyfried, G.S., Vossmer, M., Wang, Y., Williams, R. Effects of low-intensity wildfire in old-growth Douglas fir/western hemlock forest. <em><strong>In review at Fire Ecology</strong></em>.</p> 
 
-<p><span class="ref-number">[*]</span> Garcia, M., Southwick, C., Ushida, G., Checa, E., Acebron, K., Esteban, E., McMahon, S.M., Bukoski, J.J., Huxman, T., Domingues, T., Costa, F., and Albert, L. Hydraulic resilience in Central Amazonian trees confronting historic droughts. Submitted to Science.<em><strong>Submitted to Science</strong></em>.</p>
+<p><span class="ref-number">[*]</span> Garcia, M., Southwick, C., Ushida, G., Checa, E., Acebron, K., Esteban, E., McMahon, S.M., Bukoski, J.J., Huxman, T., Domingues, T., Costa, F., and Albert, L. Hydraulic resilience in Central Amazonian trees confronting historic droughts. <em><strong>Submitted to Science</strong></em>.</p>
 
 <p><span class="ref-number">[*]</span> Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., Bukoski, J.J., Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. <em><strong>In review at PNAS</strong></em>.</p> 
 
