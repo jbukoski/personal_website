@@ -11,6 +11,8 @@ slug: publications
 
 <div class="bibliography">
 
+<p><span class="ref-number">[24*]</span> Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. 2025. Accounting for albedo in carbon market protocols. <em><strong>Nature Communications</strong></em>. <ev>[Accepted]</em> <a href="https://www.researchsquare.com/article/rs-5248564/v1">PDF</a></p>
+
 <p><span class="ref-number">[23]</span> Slobodian, L., Buelow, C., Baker, S., Alvarez, S., Wood, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., Bukoski, J.J., Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. <em><strong>Cell Reports Sustainability</strong></em>. 100430. DOI: <a href="https://doi.org/10.1016/j.crsus.2025.100430">PDF</a></p>
 
 <p><span class="ref-number">[22]</span> Betts, M.G., Franklin, J.F., Bukoski, J.J., Burivalova, Z., Conklin, E.E., DeLuca, T.H., Fitch, A., Himes, A., Panwar, R., Sachs, H., Wiebe, R.A., Cerullo, G. 2025. Benefits of oshoring forestry rely on science. <em><strong>Science</strong></em>. 100430. DOI: <a href="https://www.science.org/doi/10.1126/science.adx4908">PDF</a></p>
