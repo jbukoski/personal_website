@@ -75,9 +75,7 @@ slug: publications
 
 <p><span class="ref-number">[*]</span> Garcia, M., Southwick, C., Ushida, G., Checa, E., Acebron, K., Esteban, E., McMahon, S.M., Bukoski, J.J., Huxman, T., Domingues, T., Costa, F., and Albert, L. Hydraulic resilience in Central Amazonian trees confronting historic droughts. <em><strong>Submitted to Science</strong></em>.</p>
 
-<p><span class="ref-number">[*]</span> Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., Bukoski, J.J., Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. <em><strong>In review at PNAS</strong></em>.</p> 
-
-<p><span class="ref-number">[*]</span> Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. Accounting for albedo in carbon market protocols. <em><strong>In review at Nature Communications</strong></em>. <a href="https://www.researchsquare.com/article/rs-5248564/v1">PDF</a></p>
+<p><span class="ref-number">[*]</span> Roehrdanz, P.R., Brock, C., Araujo, D., Bohner, T., Bukoski, J.J., Busch, J., Elsen, P.R., Munshi, E., Newman, E.A., Nikolopoulos, E., Noon, M.L., O'Shea, K., and Goldstein, A. Mapping threats to irrecoverable carbon from anthropogenic pressures and climate change. <em><strong>In review at Nature Communications</strong></em>.</p> 
 
 </div>
 
