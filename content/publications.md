@@ -11,7 +11,7 @@ slug: publications
 
 <div class="bibliography">
 
-<p><span class="ref-number">[24*]</span> Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. 2025. Accounting for albedo in carbon market protocols. <em><strong>Nature Communications</strong></em>. 16:8810. DOI: <a href="https://doi.org/10.1038/s41467-025-64317-x">PDF</a></p>
+<p><span class="ref-number">[24]</span> Riley, L., Cook-Patton, S.C., Albert, L., Still, C., Williams, C., and Bukoski, J.J. 2025. Accounting for albedo in carbon market protocols. <em><strong>Nature Communications</strong></em>. 16:8810. DOI: <a href="https://doi.org/10.1038/s41467-025-64317-x">PDF</a></p>
 
 <p><span class="ref-number">[23]</span> Slobodian, L., Buelow, C., Baker, S., Alvarez, S., Wood, L., Villarreal-Rosas, J., Brown, C.J., Adame, M.F., Amir, A.A., Bukoski, J.J., Bell-James, J., Vazquez Vela, A.C., Carrie, R.H., Connolly, R.M., Golebie, E.J., Foster, R., Heck, N., Sidik, F., Turschwell, M., White, A.R., Andradi-Brown, D. 2025. Quantifying the presence and potential of national legal frameworks for global mangrove protection. <em><strong>Cell Reports Sustainability</strong></em>. 100430. DOI: <a href="https://doi.org/10.1016/j.crsus.2025.100430">PDF</a></p>
 
