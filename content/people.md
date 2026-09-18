@@ -72,7 +72,7 @@ slug: people
 <br><br>
 
 <h4 class="people-heading">Current Members</h4>
-<br><br>
+<br>
 
 <div class="person-container">
   <div class="person-image">
@@ -143,7 +143,7 @@ slug: people
 
 <hr style:"border: none; height 1px; background-color: #d3d3d3;">
 <h4 class="people-heading">Alumni & Lab Affiliates</h4>
-<br><br>
+<br>
 
 <div class="person-container">
   <div class="person-image">
