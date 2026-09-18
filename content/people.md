@@ -97,6 +97,8 @@ slug: people
   <div class="person-details">
     <p><strong>Dr. Hayley Peter-Contesse</strong> is a Postdoctoral Scholar in OSU’s Department of Forest Ecosystems and Society. Hayley previously worked as a Junior Researcher at University of Hawaiʻi at Mānoa and earned her PhD in Soil Science and GIS from OSU. She uses GIS, remote sensing, and machine learning to study and map ecosystem carbon cycling in temperate and tropical systems. Hayley is currently helping lead a number of studies related to wildfire impacts on forest carbon cycling at the H.J. Andrews Experimental Forest.</p>
     <div class="person-links">
+      <a href="https://github.com/hayleypc"><i class="fab fa-github fa-lg"></i></a> |
+      <a href="https://www.researchgate.net/profile/Hayley-Peter-Contesse"><i class="ai ai-researchgate" style="color: #DC4405;"></i></a> |
       <a href="https://www.linkedin.com/in/hayley-peter-contesse/"><i class="fab fa-linkedin"></i></a> |
       <a href="mailto:petercoh@oregonstate.edu"><i class="fas fa-envelope"></i></a>
     </div>
@@ -110,6 +112,9 @@ slug: people
   <div class="person-details">
     <p><strong>Justin Coughlin</strong> is a Ph.D. student in Forest Ecosystems and Society, researching the intersection of forest carbon dynamics, conservation funding, and policy mechanisms. Prior to his doctoral studies, he spent over a decade working at federal agencies, nonprofits, and applied research consulting firms. He received his B.S. in Environmental Geology and M.S. in Environmental Science from the University of Pittsburgh.</p>
     <div class="person-links">
+      <a href="https://github.com/Justin-Coughlin"><i class="fab fa-github fa-lg"></i></a> |
+      <a href="https://scholar.google.com/citations?user=V3xsLZkAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square fa-lg" style="color: #DC4405;"></i></a> |
+      <a href="https://www.researchgate.net/profile/Justin-Coughlin-2"><i class="ai ai-researchgate" style="color: #DC4405;"></i></a> |
       <a href="https://www.linkedin.com/in/justingcoughlin/"><i class="fab fa-linkedin"></i></a> |
       <a href="mailto:couhglinj@oregonstate.edu"><i class="fas fa-envelope"></i></a>
     </div>
