@@ -129,7 +129,10 @@ slug: people
   </div>
 </div>
 
+<div class="research-theme">
 <h4 class="research-heading">Alumni & Lab Affiliates</h4>
+</div>
+
 
 <div class="person-container">
   <div class="person-image">
