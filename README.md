@@ -1,4 +1,4 @@
-#### A personal website for Jacob J. Bukoski
+#### Lab website for Forest-Based Climate Solutions research group at OSU
 
 The website is built with [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io/), and is deployed by [netlify](https://www.netlify.com/).
 
