@@ -129,6 +129,21 @@ slug: people
   </div>
 </div>
 
+<h4 class="research-heading">Alumni & Lab Affiliates</h4>
+
+<div class="person-container">
+  <div class="person-image">
+    <img src="./bruno.jpg" alt="Bruno Bianchini">
+  </div>
+  <div class="person-details">
+    <p><strong>Bruno Bianchini</strong> is a Nature Economist focused on the financial and economic assessment of nature-based restoration. He recently completed his Master's in Sustainability at Harvard University, with a thesis applying cost-benefit analysis to large-scale flooded forest restoration at Tonlé Sap, Cambodia. Before this, Bruno spent 13 years at Google leading commercial partnerships across the Middle East, Africa, and Turkey. He holds an MSc in Business Administration and Corporate Finance from Università Bocconi and is interested in what it takes to make restoration investable at scale.</p>
+    <div class="person-links">
+      <a href="https://www.linkedin.com/in/bruno-bianchini?originalSubdomain=it"><i class="fab fa-linkedin"></i></a> |
+      <a href="mailto:br.bianchini@gmail.com"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
+
 <div class="person-container">
   <div class="person-image">
     <img src="./brenda.jpg" alt="Brenda Schuster">
