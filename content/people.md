@@ -93,6 +93,18 @@ slug: people
 
 <div class="person-container">
   <div class="person-image">
+    <img src="./justin.jpg" alt="Justin Coughlin">
+  </div>
+  <div class="person-details">
+    <p><strong>Justin Coughlin</strong> is a Ph.D. student in Forest Ecosystems and Society, researching the intersection of forest carbon dynamics, conservation funding, and policy mechanisms. Prior to his doctoral studies, he spent over a decade working at federal agencies, nonprofits, and applied research consulting firms. He received his B.S. in Environmental Geology and M.S. in Environmental Science from the University of Pittsburgh.</p>
+    <div class="person-links">
+      <a href="mailto:couhglinj@oregonstate.edu"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="person-image">
     <img src="./jamie.jpg" alt="Jamie McMurray">
   </div>
   <div class="person-details">
