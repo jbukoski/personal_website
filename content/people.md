@@ -138,6 +138,7 @@ slug: people
 </div>
 
 
+<hr style:"border: none; height 1px; background-color: #d3d3d3;">
 <h4 class="people-heading">Alumni & Lab Affiliates</h4>
 
 
