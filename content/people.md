@@ -59,6 +59,14 @@ slug: people
     border-top: 1px solid #ccc;
     margin: 2.5em 0;
   }
+  
+  .people-heading {
+    font-weight: bold;
+    font-size: 1.6em;
+    color: #DC4405;
+    margin-top: 0;
+    line-height: 1.4; /* looser line height */
+  }
 </style>
 
 <br><br>
@@ -129,9 +137,8 @@ slug: people
   </div>
 </div>
 
-<div class="research-theme">
-<h4 class="research-heading">Alumni & Lab Affiliates</h4>
-</div>
+
+<h4 class="people-heading">Alumni & Lab Affiliates</h4>
 
 
 <div class="person-container">
