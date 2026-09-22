@@ -152,7 +152,7 @@ slug: people
     <img src="./raina.jpg" alt="Raina Chinitz">
   </div>
   <div class="person-details">
-    <p><strong>Raina Chinitz</strong> Raina Chinitz is a Master of Science student in Forest Ecosystems and Society at Oregon State University. Raina earned her undergraduate degree in Geology and English from Amherst College and has since worked with multiple organizations leading conservation and community development projects in the Ecuadorian Amazon and Tropical Andes. Her research interests include tropical ecology, interdisciplinary conservation strategies, environmental justice, and sustainable development in Latin America. Raina is co-advised by <a href="https://directory.forestry.oregonstate.edu/people/pech-cardenas-florencia">Dr. Florencia Pech-Cardenas</a>.</p>
+    <p><strong>Raina Chinitz</strong> is a Master of Science student in Forest Ecosystems and Society at OSU. Raina earned her undergraduate degree in Geology and English from Amherst College and has since worked with multiple organizations leading conservation and community development projects in the Ecuadorian Amazon and Tropical Andes. Her research interests include tropical ecology, interdisciplinary conservation strategies, environmental justice, and sustainable development in Latin America. Raina is co-advised by <a href="https://directory.forestry.oregonstate.edu/people/pech-cardenas-florencia">Dr. Florencia Pech-Cardenas</a>.</p>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/rainachinitz/"><i class="fab fa-linkedin"></i></a> |
       <a href="mailto:chinitzr@oregonstate.edu"><i class="fas fa-envelope"></i></a>
