@@ -183,7 +183,7 @@ slug: people
     <img src="./brenda.jpg" alt="Brenda Schuster">
   </div>
   <div class="person-details">
-    <p><strong>Brenda Schuster</strong> has 25+ years of experience in sustainable development across Africa and Asia. She is Director of Strategy and Programs at <a href="https://wildlandscapes.org/" target="_blank">WildLandscapes International</a>. Brenda holds an MA in International Studies from the University of Washington and is pursuing a Master of Natural Resources at OSU, researching dryland forest carbon accounting.</p>
+    <p><strong>Brenda Schuster</strong> has 25+ years of experience in sustainable development across Africa and Asia. She is Director of Strategy and Programs at <a href="https://wildlandscapes.org/" target="_blank">WildLandscapes International</a>. Brenda holds an MA in International Studies from the University of Washington and completed her Master of Natural Resources at OSU. Her research focused on carbon accounting using remote sensing products and dynamic baselining approaches in dryland forests of Kenya.</p>
     <div class="person-links">
       <a href="https://linkedin.com/in/brenda-s-62340b25b"><i class="fab fa-linkedin"></i></a> |
       <a href="mailto:schusteb@oregonstate.edu"><i class="fas fa-envelope"></i></a>
