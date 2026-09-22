@@ -139,7 +139,7 @@ slug: people
     <img src="./lynn.jpg" alt="Lynn Riley">
   </div>
   <div class="person-details">
-    <p><strong>Lynn Riley</strong> is Lead Scientist for the <a href="https://www.forestfoundation.org/" target="_blank">American Forest Foundation</a> and is concurrently pursuing her Master's of Natural Resources at OSU. Her research is exploring the <a href="https://www.nature.com/articles/s41467-025-64317-x">impacts of albedo on reforestation projects</a> on the Voluntary Carbon Market and dynamic baselining effects on Improved Forest Management projects. Lynn has worked on Natural Climate Solutions and improving forest carbon accounting since 2019, and is interested in connecting science with landowner practicality. She holds a BA in Geography from Virginia Tech.</p>
+    <p><strong>Lynn Riley</strong> is Lead Scientist for the <a href="https://www.forestfoundation.org/" target="_blank">American Forest Foundation</a> and is concurrently pursuing her Master's of Natural Resources at OSU. Her research is exploring the impacts of <a href="https://www.nature.com/articles/s41467-025-64317-x">albedo on reforestation projects</a> on the Voluntary Carbon Market and dynamic baselining effects on Improved Forest Management projects. Lynn has worked on Natural Climate Solutions and improving forest carbon accounting since 2019, and is interested in connecting science with landowner practicality. She holds a BA in Geography from Virginia Tech.</p>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/lynn-riley-b1071667/"><i class="fab fa-linkedin"></i></a> |
       <a href="mailto:rileyly@oregonstate.edu"><i class="fas fa-envelope"></i></a>
