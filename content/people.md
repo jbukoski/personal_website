@@ -167,6 +167,19 @@ slug: people
 
 <div class="person-container">
   <div class="person-image">
+    <img src="./tri.jpg" alt="Tri Nam Huynh">
+  </div>
+  <div class="person-details">
+    <p><strong>Tri Nam Huynh</strong> is a Master's student at Nong Lam University in Ho Chi Minh, Vietnam, and was a visiting summer intern through the Branching Borders program at OSU. Tri stayed for two months at Corvallis, where he helped Jacob and Prof. Heesung Woo analyze a terrestrial LiDAR scan dataset of mangrove forest structure in the Can Gio Biosphere Reserve downstream of Ho Chi Minh City. Tri has returned to Vietnam to finish his Master's degree, but continue to collaborate with Jacob & Heesung.</p>
+    <div class="person-links">
+      <a href="https://www.linkedin.com/in/trihuynh97/"><i class="fab fa-linkedin"></i></a> |
+      <a href="mailto:huynhnamtri97@gmail.com"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="person-image">
     <img src="./bruno.jpg" alt="Bruno Bianchini">
   </div>
   <div class="person-details">
@@ -193,7 +206,7 @@ slug: people
 
 <div class="person-container">
   <div class="person-image">
-    <img src="./sebastian.jpeg" alt="Sebastian Hjelström">
+    <img src="./sebastian.jpg" alt="Sebastian Hjelström">
   </div>
   <div class="person-details">
     <p><strong>Sebastian Hjelström</strong> was a visiting summer intern through the Branching Border's international internship program at OSU's College of Forestry. He spent two months at OSU, where he collaborated with our research group on data analyses of wildfire effects on forest structure and emisisons. Sebastian received a competitive fellowship to attend the University of British Columbia and receive his Master's of Forestry shortly after his internship. Sebastian has since returned home to Sweden where he is now working in the forestry sector.</p>
