@@ -190,3 +190,16 @@ slug: people
     </div>
   </div>
 </div>
+
+<div class="person-container">
+  <div class="person-image">
+    <img src="./brenda.jpg" alt="Sebastian Hjelström">
+  </div>
+  <div class="person-details">
+    <p><strong>Sebastian Hjelström</strong> was a visiting summer intern through the Branching Border's international internship program at OSU's College of Forestry. He spent two months at OSU, where he collaborated with our research group on data analyses of wildfire effects on forest structure and emisisons. Sebastian received a competitive fellowship to attend the University of British Columbia and receive his Master's of Forestry shortly after his internship. Sebastian has since returned home to Sweden where he is now working in the forestry sector.</p>
+    <div class="person-links">
+      <a href="https://www.linkedin.com/in/sebastian-hjelstr%C3%B6m/"><i class="fab fa-linkedin"></i></a> |
+      <a href="mailto:sebastian.hjelstrom@gmail.com"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
