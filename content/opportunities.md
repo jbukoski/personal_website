@@ -6,6 +6,8 @@ description: "opportunities"
 
 #### Contact guidelines
 
+<strong>Please note that I do not have any funded graduate positions (M.S. or Ph.D.) to offer at this time. If you have your own funding or are interested in jointly pursuing funding to supoort your studies, I am happy to start that conversation. However, I expect you to have a specific plan for how to pursue funding and how I can support.</strong>
+
 I encourage enthusiastic undergraduates and prospective graduate students to reach out. However, I receive a large number of emails and although I do my best to respond to all, your email may slip through the cracks. To help me get back to you in an efficient manner, please do the following:
 
 Before you send an email, review some of my recent publications and have a good understanding of my work and interests. When you send your email, please include:
