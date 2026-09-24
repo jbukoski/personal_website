@@ -123,6 +123,18 @@ slug: people
 
 <div class="person-container">
   <div class="person-image">
+    <img src="./iris.jpg" alt="Iris Ford">
+  </div>
+  <div class="person-details">
+    <p><strong>Iris Ford</strong> is currently pursuing a Master of Science in Forest Ecosystems and Society at OSU. She recently completed her bachelor's in Natural Resources Education at Oregon State University and has since spent time involved in various soil carbon and forest decomposition research projects at the H.J. Andrews Experimental Forest. Her interests going forward largely surround Oregon's coastal wetlands, focusing primarily on the ecological significance and historical/current extent of Sitka spruce swamps.</p>
+    <div class="person-links">
+      <a href="mailto:iris.ford@oregonstate.edu"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="person-image">
     <img src="./jamie.jpg" alt="Jamie McMurray">
   </div>
   <div class="person-details">
